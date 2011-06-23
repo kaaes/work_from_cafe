@@ -26,23 +26,30 @@ Kraków
 
 ###Bunkier Sztuki, Planty, plac Szczepański
 
-* __Internet:__ good wifi
+* __Internet:__ good wifi, open network
 * __Power plugs:__ One can get to them
 * __Seating:__ Not great. I can't imagine spending few hours in those chairs, but for shorter spans should do 
 * __Service:__ ok
 * __Provision:__ good coffee, good food, normal prices
 
-###Cafe Młynek, plac Wolnica
+###Cafe Młynek, Plac Wolnica
 
-* __Internet:__ wifi, good connection
+* __Internet:__ wifi, good connection, ask for password
 * __Power plugs:__ accessible, two are near to white sofa next to window
 * __Seating:__ chairs & sofas
 * __Service:__ nice guys
 * __Provision:__ great coffee (oh, their mocha!) and food plus decent prices
 
-###Le Scandale, plac Nowy
+###Kolory, Plac Nowy
+* __Internet:__ open wifi, good connection
+* __Power plugs:__ easily accessible and lots of them, especially in the patio in the back
+* __Seating:__ comfortable chairs, but additional sofa in the 'garden' could be nice
+* __Service:__ very cool guys :) and they don't mind you having one cup of coffee for few hours
+* __Provision:__ tasty coffee, freshly squeezed juice, ice tea made of tea and other goodies, but food is quite expensive
 
-* __Internet:__ good wifi
+###Le Scandale, Plac Nowy
+
+* __Internet:__ good wifi, open network
 * __Power plugs:__ I saw few outside, but haven't tried plugging inside
 * __Seating:__ comfortable chairs and sofas, could seat there for hours
 * __Service:__ very nice, but they make sure you don't have empty table
