@@ -1,0 +1,18 @@
+body {
+  font-family: Puritan, Helvetica, Arial, sans-serif; 
+  color: #444; 
+  background: #FFF7ED url('../images/pattern8.png'); 
+  margin: 0; padding: 0;
+  line-height: 1.2em;
+}
+h1, h2, h3, h4, h5 {color: #74B330}
+
+#content {
+  padding: 1.5em 3em; margin: 2em; 
+  background: rgba(255,255,255,.95); 
+  border-radius: 5px;
+  box-shadow: 
+    0 0 0 1px #EBBF7A,
+    0 0 0 4px rgba(255,255,255,.95),
+    0 0 20px rgba(0,0,0,.95);
+}

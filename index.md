@@ -19,7 +19,8 @@ Most important criteria:
 * decent coffee!
 * and food
 
-__All places listed here were tested, and I use them when I need to work or eat and do something online__
+__RULES:__ All places listed were tested and proven to be geek and work friendly
+
 
 Kraków
 ------
