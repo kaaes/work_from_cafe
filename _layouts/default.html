@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <title>Work From Cafe - {{ page.title }}</title>
-    <link href="http://fonts.googleapis.com/css?family=Puritan:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="static/css/style.css">
-  </head>
-  <body>
-    <div id="main">
-      <div id="content" class="site">
-        {{ content }}
-      </div>
-    </div>
-  </body>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<title>Work From Cafe - {{ page.title }}</title>
+		<link href="http://fonts.googleapis.com/css?family=Puritan:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="static/css/style.css">
+	</head>
+	<body>
+		<div id="main">
+			<div id="content" class="site">
+				<div id="header">
+					<h1 id="page-title"><a href="{{ page.url }}">Work From Cafe</a></h1>
+					<em class="claim">
+						A reference for people working remotely who don’t want to sit at home.<br /> 
+						A list of places friendly to social oriented geeks.
+						And it's on GitHub. Love it already?
+					</em>
+				</div>
+				<div id="intro">
+					<p class="list-title">Most important criteria:</p>
+					<ul id="criteria-list">
+						<li>good WiFi</li>
+						<li>accessible sockets</li>
+						<li>comfortable seats</li>
+						<li>friendly service</li>
+						<li>decent coffee!</li>
+						<li>and food</li>
+					</ul>
+					<p id="rules"><strong>RULES:</strong> All places listed were tested and proven to be geek and work friendly</p>
+					<p>If you want to contribute to the list just <a href='https://github.com/kaaes/work_from_cafe' title='come on, working from cafes makes coding even more social!'>fork it on GitHub</a> :)</p>
+					<a id="list-link" href="#list" title="To top of the list">To top of the list</a>
+				</div>
+				<a name="list" />
+				<div id="list">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
-

@@ -3,25 +3,6 @@ title: Home
 layout: default
 ---
 
-Work From Cafe
-==============
-
-A reference for people working remotely who don't want to sit at home.
-
-A list of places friendly to social oriented geeks.
-
-Most important criteria:
-
-* good WiFi
-* accessible sockets
-* comfortable seats
-* friendly service
-* decent coffee!
-* and food
-
-__RULES:__ All places listed were tested and proven to be geek and work friendly
-
-
 Kraków
 ------
 
@@ -46,12 +27,12 @@ Kraków
 * __Power plugs:__ easily accessible and lots of them, especially in the patio in the back
 * __Seating:__ comfortable chairs, but additional sofa in the 'garden' would be nice
 * __Service:__ very cool guys :) and they don't mind you having one cup of coffee for few hours
-* __Provision:__ tasty coffee, freshly squeezed juice, ice tea made of tea and other goodies, but food is quite expensive
+* __Provision:__ tasty coffee, freshly squeezed juice, ice tea made from tea and other goodies, but food is quite expensive
 
 ###Le Scandale, Plac Nowy
 
 * __Internet:__ good wifi, open network
 * __Power plugs:__ I saw few outside in the garden, but haven't tried plugging inside
-* __Seating:__ comfortable chairs and sofas, could sit there for hours
+* __Seating:__ comfortable chairs and sofas, I could sit there for hours
 * __Service:__ very nice, but they make sure you don't have empty glass in front of you
 * __Provision:__ good coffee, awesome tomato soup, normal prices
