@@ -14,6 +14,15 @@ a:hover {background: #eee}
 
 #page-title a {color: inherit; border: none}
 #page-title a:hover {background: none}
+#page-title em {font-size: .5em;}
+
+#github-path {
+  position: absolute; 
+  top: 1em; right: 1em;
+  font-size: 1.5em;
+  font-style: normal;
+}
+#github-path a {color: inherit; border: none; font-weight: bold}
   
 #header {
   margin-bottom: 1em;
@@ -50,13 +59,14 @@ a:hover {background: #eee}
   height: 2em;
   bottom: -4em; left: -400px;
 }
+
 #list-link::after {
   content: "\2701";
   font-size: 3em;
   display: block;
   position: absolute;
   bottom: -3px; right: -305px;
-  color: #222;
+  color: #444;
 }
 #list {position: relative; padding: 1em 3em 4em; border-top: dashed 5px #F5EFD3; margin: 4em -3em 0;}
 #list h3 {margin-top: 1.5em; padding-top: 1em; border-top: solid 1px #F5EFD3}
