@@ -12,6 +12,6 @@
   Last update: 2011/06/24
   Doctype: HTML5
   Standards: HTML5, CSS3
-  Software: TextMate, GitHub
+  Software: Vim, TextMate, GitHub
 
 
