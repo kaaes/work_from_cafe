@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+project : /work_from_cafe
 ---
 
 Kraków
