@@ -32,6 +32,7 @@ a:hover {background: #eee}
 .list-title {clear: left;}
 
 #content {
+  position: relative;
   padding: 1.5em 3em; margin: 2em; 
   background: rgba(255,255,255,.95); 
   border-radius: 5px;
@@ -59,3 +60,11 @@ a:hover {background: #eee}
 }
 #list {position: relative; padding: 1em 3em 4em; border-top: dashed 5px #F5EFD3; margin: 4em -3em 0;}
 #list h3 {margin-top: 1.5em; padding-top: 1em; border-top: solid 1px #F5EFD3}
+
+#html5 {
+  width: 64px; height: 64px; 
+  text-indent: -999px; overflow: hidden; 
+  background: url('../images/html5.png') right top no-repeat;
+  position: absolute;
+  bottom: 0; right: 5px;
+}
