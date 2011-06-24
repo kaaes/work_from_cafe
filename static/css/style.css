@@ -16,6 +16,12 @@ a:hover {background: #eee}
 #page-title a:hover {background: none}
 #page-title em {font-size: .5em;}
 
+.ribbon img {
+  position: absolute; top: 0; right: 0;
+  border: 0;
+  z-index: +1;
+  }
+
 #github-path {
   position: absolute; 
   top: 1em; right: 1em;
@@ -96,3 +102,4 @@ a:hover {background: #eee}
 }
 
 #humans a:hover {background: none}
+
