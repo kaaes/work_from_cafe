@@ -1,1 +1,17 @@
-I just <3 web
+/* TEAM */
+  Cafe occupant: Kasia Drzyzga
+  Site: kasia.drzyzga.pl
+  Twitter: @kaaes
+  Location: Krakow, Poland
+  
+  GitHub fanboy: Przemek Owczarek
+  Twitter: @powczarek
+  Location: Krakow, Poland
+
+/* SITE */
+  Last update: 2011/06/24
+  Doctype: HTML5
+  Standards: HTML5, CSS3
+  Software: TextMate, GitHub
+
+
