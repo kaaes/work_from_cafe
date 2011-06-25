@@ -23,6 +23,14 @@ Kraków
 * __Service:__ nice guys
 * __Provision:__ great coffee (oh, their mocha!) and food plus decent prices
 
+###Gazeta Cafe, ul. Bracka
+
+* __Internet:__ open wifi that requires you to accept terms and conditions. It tends to reset itself from time to time so expect to see this t&c page a lot. But connection is good 
+* __Power plugs:__ accessible and lots of them - looks like they were put there especially for us :)
+* __Seating:__ various - from sofas and chairs to big wooden 'steps' with cushions - the last are very comfortable
+* __Service:__ very nice unobtrusive girls
+* __Provision:__ good coffee and tea, great frappe and other beverages, not big choice of food though
+
 ###Kolory, Plac Nowy
 * __Internet:__ open wifi, good connection
 * __Power plugs:__ easily accessible and lots of them, especially in the patio in the back
