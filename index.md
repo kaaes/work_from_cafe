@@ -7,7 +7,7 @@ project : /work_from_cafe
 Kraków
 ------
 
-###Bunkier Sztuki, Planty, plac Szczepański
+###Bunkier Sztuki, Planty, plac Szczepanski
 
 * __Internet:__ good wifi, open network
 * __Power plugs:__ one can get to them

@@ -20,20 +20,20 @@ a:hover {background: #eee}
   position: absolute; top: 0; right: 0;
   border: 0;
   z-index: +1;
-  }
+}
 
 #github-path {
   position: absolute; 
-  top: 1em; right: 1em;
+  top: 1em; right: 3em;
   font-size: 1.5em;
   font-style: normal;
 }
-#github-path a {color: inherit; border: none; font-weight: bold}
+#github-path span {color: inherit; border: none; font-weight: bold}
   
 #header {
   margin-bottom: 1em;
   background: url('../images/Octocat.png') top right no-repeat;
-  padding-right: 100p;
+  padding-right: 100px;
 }
 
 #intro {
