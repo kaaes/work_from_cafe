@@ -1,7 +1,7 @@
 Work From Cafe                                                                                                                                                
 --------------
-A reference for people working remotely who don’t want to sit at home.
-A list of places friendly to social oriented geeks. And it's on GitHub. Love it already?
+A reference for people working remotely who don’t want to sit at home.  
+A list of places friendly to social oriented geeks. And it's on GitHub. Love it already?  
 
 ###Webpage
 
@@ -23,5 +23,5 @@ Eight easy steps using just GitHub web interface:
 8. There is no step 8.  
 
 ###Authors
-__Przemek Owczarek__ {[github](https://github.com/nazgob), [twitter](http://twitter.com/powczarek)}
+__Przemek Owczarek__ {[github](https://github.com/nazgob), [twitter](http://twitter.com/powczarek)}  
 __Kasia Drzyzga__ {[github](https://github.com/kaaes), [twitter](http://twitter.com/kaaes), [blog](http://kasia.drzyzga.pl)}
