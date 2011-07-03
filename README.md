@@ -23,5 +23,5 @@ Eight easy steps using just GitHub web interface:
 8. There is no step 8.  
 
 ###Authors
-__Przemek Owczarek__ {[github](https://github.com/nazgob), [twitter](http://twitter.com/powczarek)}  
 __Kasia Drzyzga__ {[github](https://github.com/kaaes), [twitter](http://twitter.com/kaaes), [blog](http://kasia.drzyzga.pl)}  
+__Przemek Owczarek__ {[github](https://github.com/nazgob), [twitter](http://twitter.com/powczarek)}  
