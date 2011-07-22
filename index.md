@@ -59,3 +59,14 @@ Kraków
 * __Service:__ very nice, but they make sure you don't have empty glass in front of you
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
+
+Warszawa
+------
+
+### Tarabuk, ul. Browarna, Powiśle
+* __Internet:__ wifi (~2Mbit/s)
+* __Power outlets:__ Generally available if you sit close to a wall
+* __Seating:__ chairs, sofas, few really comfy armchairs
+* __Service:__ excelent
+* __Provision:__ coffee, tea, the ginger drink and other beverages. Food: a deliciuos tart. Cakes.
+* __Link:__ [Homepage](http://www.tarabuk.pl/)[Facebook](http://pl-pl.facebook.com/Tarabuk)
