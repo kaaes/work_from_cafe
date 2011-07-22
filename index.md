@@ -69,4 +69,4 @@ Warszawa
 * __Seating:__ chairs, sofas, few really comfy armchairs
 * __Service:__ excelent
 * __Provision:__ coffee, tea, the ginger drink and other beverages. Food: a deliciuos tart. Cakes.
-* __Link:__ [Homepage](http://www.tarabuk.pl/)[Facebook](http://pl-pl.facebook.com/Tarabuk)
+* __Link:__ [Homepage](http://www.tarabuk.pl/), [Facebook](http://pl-pl.facebook.com/Tarabuk)
