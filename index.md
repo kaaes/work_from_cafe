@@ -67,6 +67,6 @@ Warszawa
 * __Internet:__ wifi (~2Mbit/s)
 * __Power outlets:__ Generally available if you sit close to a wall
 * __Seating:__ chairs, sofas, few really comfy armchairs
-* __Service:__ excelent
-* __Provision:__ coffee, tea, the ginger drink and other beverages. Food: a deliciuos tart. Cakes.
+* __Service:__ excellent
+* __Provision:__ coffee, tea, the ginger drink and other beverages. Food: a delicious tart. Cakes.
 * __Link:__ [Homepage](http://www.tarabuk.pl/), [Facebook](http://pl-pl.facebook.com/Tarabuk)
