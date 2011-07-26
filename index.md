@@ -60,6 +60,14 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
+###Karma, ul. Krupnicza 12
+
+* __Internet:__ open (non-encrypted) WiFi, decent connection speed
+* __Power plugs:__ accessible when sitting by a wall, they're located under the seats
+* __Seating:__ chairs and benches, could be more comfortable (some pillows available though). nice tables
+* __Service:__ great people, won't disturb you.
+* __Provision:__ probably the best coffee in Krakow, various kinds of organic food (also sweet), not too pricey
+
 Warszawa
 ------
 
