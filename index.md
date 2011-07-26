@@ -7,15 +7,6 @@ project : /work_from_cafe
 Kraków
 ------
 
-###Indalo Cafe, ul. Tarłowska
-
-* __Internet:__ open wifi
-* __Power plugs:__ accessible
-* __Seating:__ seats insine and outside
-* __Service:__ very nice
-* __Provision:__ great coffee in good price, tasty sandwiches, calm atmosphere, awarded in "Akcja Kawa" by ITwKrakowie.org
-* __Link:__ [Facebook](http://www.facebook.com/Indalo.Cafe)
-
 ###Bunkier Sztuki, Planty, plac Szczepanski
 
 * __Internet:__ good wifi, open network
@@ -43,6 +34,23 @@ Kraków
 * __Provision:__ good coffee and tea, great frappe and other beverages, not big choice of food though
 * __Link:__ [Homepage](http://www.gazetacafe.pl/), [Facebook](http://www.facebook.com/pages/Gazeta-Cafe-Kraków/111777562170435)
 
+###Indalo Cafe, ul. Tarłowska
+
+* __Internet:__ open wifi
+* __Power plugs:__ accessible
+* __Seating:__ seats insine and outside
+* __Service:__ very nice
+* __Provision:__ great coffee in good price, tasty sandwiches, calm atmosphere, awarded in "Akcja Kawa" by ITwKrakowie.org
+* __Link:__ [Facebook](http://www.facebook.com/Indalo.Cafe)
+
+###Karma, ul. Krupnicza 12
+
+* __Internet:__ open (non-encrypted) WiFi, decent connection speed
+* __Power plugs:__ accessible when sitting by a wall, they're located under the seats
+* __Seating:__ chairs and benches, could be more comfortable (some pillows available though). nice tables
+* __Service:__ great people, won't disturb you.
+* __Provision:__ probably the best coffee in Krakow, various kinds of organic food (also sweet), not too pricey
+
 ###Kolory, Plac Nowy
 
 * __Internet:__ open wifi, good connection
@@ -60,16 +68,9 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
-###Karma, ul. Krupnicza 12
-
-* __Internet:__ open (non-encrypted) WiFi, decent connection speed
-* __Power plugs:__ accessible when sitting by a wall, they're located under the seats
-* __Seating:__ chairs and benches, could be more comfortable (some pillows available though). nice tables
-* __Service:__ great people, won't disturb you.
-* __Provision:__ probably the best coffee in Krakow, various kinds of organic food (also sweet), not too pricey
 
 Warszawa
-------
+--------
 
 ### Tarabuk, ul. Browarna, Powiśle
 * __Internet:__ wifi (~2Mbit/s)
