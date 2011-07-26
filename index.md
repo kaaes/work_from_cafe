@@ -10,7 +10,7 @@ Białystok
 ### Akcent Kawiarnia i Księgarnia, ul. Rynek Kościuszki 17
 * __Internet:__ free city wifi
 * __Power outlets:__ 4 on the wall, far right from the entrance
-* __Seating:__ chairs, large, comfortable tables, patio furnituure outside with view towards city hall
+* __Seating:__ chairs, large, comfortable tables, patio furniture outside with view towards city hall
 * __Service:__ good, the owner is always inside and can organize more power outlets if needed
 * __Provision:__ coffee, tea, soft and alcoholic drinks. Good spinach tart, variety of cakes. Coffee a bit pricey, other drinks in good prices. You can also buy books there (mostly non-technical), it's also a bookstore.
 * __Link:__ [Facebook](http://www.facebook.com/pages/Kawiarnia-Akcent/139389146143599)
