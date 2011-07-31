@@ -90,3 +90,11 @@ Warszawa
 * __Service:__ excellent
 * __Provision:__ coffee, tea, the ginger drink and other beverages. Food: a delicious tart. Cakes.
 * __Link:__ [Homepage](http://www.tarabuk.pl/), [Facebook](http://pl-pl.facebook.com/Tarabuk)
+
+### W Biegu Cafe, ul. Świętokrzyska 18, near Tube station
+* __Internet:__ wifi (~2Mbit/s)
+* __Power outlets:__ Generally available if you sit close to a wall
+* __Seating:__ chairs, bar stools, sofas, few really comfy armchairs and a lot of space
+* __Service:__ good
+* __Provision:__ coffee, tea, cakes and what's important salads and sandwiches.
+* __Link:__ [Homepage](http://www.wbiegucafe.pl/), [Facebook](http://www.facebook.com/wbiegucafebyjacobskronung)
