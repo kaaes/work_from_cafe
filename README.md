@@ -21,7 +21,7 @@ Eight easy steps using just GitHub web interface:
 5. Don't forget a proper commit msg at the bottom.  
 6. You will see GitHub Pull request page.  
 7. Fill it, press __Send pull request__.  
-8. Since you're also the author now, you're totally welcome to add yourself to humans.txt :) (<http://humanstxt.org/>)
+8. Since you're also the author now, you're totally welcome to add yourself to humans.txt :) <http://humanstxt.org/>
 
 ###Created by
 __Kasia Drzyzga__ {[github](https://github.com/kaaes), [twitter](http://twitter.com/kaaes), [blog](http://kasia.drzyzga.pl)}  
