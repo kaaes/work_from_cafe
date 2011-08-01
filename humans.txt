@@ -9,7 +9,7 @@
   Location: Krakow, Poland
 
 /* SITE */
-  Last update: 2011/07/03
+  Last update: 2011/08/01
   Doctype: HTML5
   Standards: HTML5, CSS3
   Software: Vim, TextMate, GitHub
