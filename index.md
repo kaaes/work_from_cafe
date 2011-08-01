@@ -61,6 +61,7 @@ Kraków
 * __Seating:__ chairs and benches, could be more comfortable (some pillows available though). nice tables
 * __Service:__ great people, won't disturb you.
 * __Provision:__ probably the best coffee in Krakow, various kinds of organic food (also sweet), not too pricey
+* __Opening hours:__ Mon-Fri: 10-20, Sat-Sun: 11-20 
 
 ###Kolory, Plac Nowy
 
