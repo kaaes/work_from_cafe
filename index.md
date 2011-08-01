@@ -110,4 +110,4 @@ London
 * __Seating:__ Chairs, in the window and in the room. Good, working bathroom
 * __Service:__ excellent
 * __Provision:__ coffee, tea, cakes, sandwiches, drinks and vintage clothes.
-* __ Link:__ [Homepage](http://www.cafevintage.co.uk/)
+* __Link:__ [Homepage](http://www.cafevintage.co.uk/)
