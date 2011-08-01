@@ -99,3 +99,15 @@ Warszawa
 * __Service:__ good
 * __Provision:__ coffee, tea, cakes and what's important salads and sandwiches.
 * __Link:__ [Homepage](http://www.wbiegucafe.pl/), [Facebook](http://www.facebook.com/wbiegucafebyjacobskronung)
+
+
+London
+------
+
+### Cafe Vintage, 88 Mountgrove Road London N5 2LT, near Arsenal Tube 
+* __Internet:__ wifi (~4Mbit/s)
+* __Power outlets:__ A few, and I bought them extensions which are available
+* __Seating:__ Chairs, in the window and in the room. Good, working bathroom
+* __Service:__ excellent
+* __Provision:__ coffee, tea, cakes, sandwiches, drinks and vintage clothes.
+* __ Link:__ [Homepage](http://www.cafevintage.co.uk/)
