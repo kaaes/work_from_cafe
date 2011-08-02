@@ -39,7 +39,7 @@ Kraków
 ###Drukarnia, ul. Nadwiślańska 1
 
 * __Internet:__ wifi, good connection, open network (however it might not work once a fortnight or so)
-* __Power plugs:__ accessible
+* __Power plugs:__ accessible, approximately one plug every two tables
 * __Seating:__ chairs & sofas
 * __Service:__ ok
 * __Provision:__ good coffee and tea, not too big choice of food (sometimes they have fresh sandwiches)
