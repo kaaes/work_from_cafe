@@ -34,7 +34,16 @@ Kraków
 * __Seating:__ chairs & sofas
 * __Service:__ nice guys
 * __Provision:__ great coffee (oh, their mocha!) and food plus decent prices
-* __Link:__ [Homepage](http://www.cafemlynek.pl/), [Facebook](http://www.facebook.com/pages/Cafe-M%C5%82ynek/178696854321) 
+* __Link:__ [Homepage](http://www.cafemlynek.pl/), [Facebook](http://www.facebook.com/pages/Cafe-M%C5%82ynek/178696854321)
+
+###Drukarnia, ul. Nadwiślańska 1
+
+* __Internet:__ wifi, good connection, open network (however it might not work once a fortnight or so)
+* __Power plugs:__ accessible
+* __Seating:__ chairs & sofas
+* __Service:__ ok
+* __Provision:__ good coffee and tea, not too big choice of food (sometimes they have fresh sandwiches)
+* __Link:__ [Homepage](http://http://www.drukarnia_podgorze.republika.pl/), [Facebook](http://www.facebook.com/pages/Drukarnia-Jazz-Club/92289934116)
 
 ###Gazeta Cafe, ul. Bracka
 
