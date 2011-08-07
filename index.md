@@ -45,7 +45,7 @@ Kraków
 * __Provision:__ good coffee and tea, not too big choice of food (sometimes they have fresh sandwiches)
 * __Link:__ [Homepage](http://http://www.drukarnia_podgorze.republika.pl/), [Facebook](http://www.facebook.com/pages/Drukarnia-Jazz-Club/92289934116)
 
-###Gazeta Cafe, ul. Bracka
+###Gazeta Cafe, ul. Bracka 14
 
 * __Internet:__ open wifi that requires you to accept terms and conditions. It tends to reset itself from time to time so expect to see this t&c page a lot. But connection is good 
 * __Power plugs:__ accessible and lots of them - looks like they were put there especially for us :)
@@ -53,6 +53,7 @@ Kraków
 * __Service:__ very nice unobtrusive girls
 * __Provision:__ good coffee and tea, great frappe and other beverages, not big choice of food though
 * __Link:__ [Homepage](http://www.gazetacafe.pl/), [Facebook](http://www.facebook.com/pages/Gazeta-Cafe-Kraków/111777562170435)
+* __Opening hours:__ Mon-Fri 9-21.30, Sat 10-21, Sun 10-20
 
 ###Indalo Cafe, ul. Tarłowska
 
