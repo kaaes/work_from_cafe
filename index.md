@@ -15,6 +15,17 @@ Białystok
 * __Provision:__ coffee, tea, soft and alcoholic drinks. Good spinach tart, variety of cakes. Coffee a bit pricey, other drinks in good prices. You can also buy books there (mostly non-technical), it's also a bookstore.
 * __Link:__ [Facebook](http://www.facebook.com/pages/Kawiarnia-Akcent/139389146143599)
 
+Poznań
+------
+
+### Kukania, ul Wojskowa 4, CityPark
+* __Internet:__ good wifi, ask for password
+* __Power plugs:__ A few nearby every table
+* __Seating:__ Comfortable chairs, a little to small tables for 2+ people
+* __Service:__ Greate service, 
+* __Provision:__ Greate coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salats with rucola.
+* __Link:__ [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
+
 Kraków
 ------
 
