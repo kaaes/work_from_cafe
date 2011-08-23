@@ -23,7 +23,7 @@ Poznań
 * __Power plugs:__ A few nearby every table
 * __Seating:__ Comfortable chairs, a little to small tables for 2+ people
 * __Service:__ Greate service, 
-* __Provision:__ Greate coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salats with rucola.
+* __Provision:__ Greate coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
 * __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
 
 Kraków
