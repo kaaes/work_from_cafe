@@ -132,3 +132,11 @@ London
 * __Service:__ excellent
 * __Provision:__ coffee, tea, cakes, sandwiches, drinks and vintage clothes.
 * __Link:__ [Homepage](http://www.cafevintage.co.uk/)
+
+### Departure Cafe, 649/651 Commercial Road, Limehouse, London E14 7LW
+* __Internet:__ wifi (~8Mbit/s)
+* __Power outlets:__ Plenty, 2 or 4 next to each desk, sofa or table
+* __Seating:__ Old sofas, chairs, table and chairs, art rooms, balcony, anywhere really
+* __Service:__ Everyone here is so nice, it feels wrong calling it service. Awesome
+* __Provision:__ coffee, tea, sandwiches, muffins, sweets, homemade things people bring in
+* __Link:__ [Homepage](http://www.depart.in/)
