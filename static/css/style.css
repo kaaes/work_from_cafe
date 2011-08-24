@@ -1,9 +1,9 @@
 body {
-  font-family: Puritan, Helvetica, Arial, sans-serif; 
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif; 
   color: #444; 
   background: #FFF7ED url('../images/pattern8b.png'); 
   margin: 0; padding: 0;
-  line-height: 120%;
+  line-height: 140%;
 }
 h1 {color: #7B481B; font-size: 3em; line-height: 1em; margin-bottom: 5px; text-shadow: 1px 1px 0 #fff, 2px 2px 0 #eee}
 h2 {margin-top: 2em}
@@ -74,7 +74,7 @@ a:hover {background: #eee}
   font-size: 3em;
   display: block;
   position: absolute;
-  bottom: -3px; right: -305px;
+  bottom: 0; right: -305px;
   color: #444;
 }
 #list {position: relative; padding: 0 3em 4em; border-top: dashed 5px #F5EFD3; margin: 4em -3em 0;}
