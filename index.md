@@ -141,3 +141,15 @@ London
 * __Service:__ Everyone here is so nice, it feels wrong calling it service. Awesome
 * __Provision:__ coffee, tea, sandwiches, muffins, sweets, homemade things people bring in
 * __Link:__ [Homepage](http://www.depart.in/)
+
+
+Vilnius
+-------
+
+### CoffeInn, 17 Vilnius st.
+* __Internet:__ wifi free
+* __Power outlets:__ Almost everywhere
+* __Seating:__ Simple tables, few sitbags
+* __Service:__ Great. Food great. Coffee great. Everything - great.
+* __Provision:__ coffee, tea, sandwiches, muffins, sweets
+* __Link:__ [Homepage](http://coffee-inn.lt/)
