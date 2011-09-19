@@ -88,6 +88,14 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
+###Tajemniczy Ogrod, Plac Nowy 9
+
+* __Internet:__ very good fast and stable wifi, open network
+* __Power plugs:__ Need to unplug a lamp but there's almost one per table
+* __Seating:__ wooden chars or comfortable sofas depends on the room, easy to find comfortable place
+* __Service:__ nice, order at the bar but they usually bring coffee to the table
+* __Provision:__ good coffee, didn't check the food though
+* __Link:__ [Homepage](http://www.tajemniczyogrod.pl/plac), [Facebook](http://www.facebook.com/pages/tajemniczy-ogr%C3%B3d/107118389369660)
 
 Warszawa
 --------
