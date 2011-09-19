@@ -3,14 +3,12 @@
   Site: kasia.drzyzga.pl
   Twitter: @kaaes
   Location: Krakow, Poland
-  
+
   GitHub fanboy: Przemek Owczarek
   Twitter: @powczarek
   Location: Krakow, Poland
 
 /* SITE */
-  Last update: 2011/08/01
   Doctype: HTML5
   Standards: HTML5, CSS3
   Software: Vim, TextMate, GitHub
-
