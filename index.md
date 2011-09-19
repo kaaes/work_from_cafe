@@ -161,3 +161,18 @@ Vilnius
 * __Service:__ Great. Food great. Coffee great. Everything - great.
 * __Provision:__ coffee, tea, sandwiches, muffins, sweets
 * __Link:__ [Homepage](http://coffee-inn.lt/)
+
+
+Gdańsk
+------
+
+### Costa Coffee, ul. Długa 5
+* __Internet:__ wifi free
+* __Power outlets:__ At the walls mostly
+* __Seating:__ Chairs and sofas
+* __Service:__ Self-service but nice
+* __Provision:__ coffee (really big), tea, sandwiches, muffins, sweets
+* __Link:__ [Homepage](http://www.costacoffee.pl/)
+
+
+
