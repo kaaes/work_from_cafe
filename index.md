@@ -102,7 +102,7 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
-###Tajemniczy Ogrod, Plac Nowy 9
+###Tajemniczy Ogród, Plac Nowy 9
 
 * __Internet:__ very good fast and stable wifi, open network
 * __Power plugs:__ need to unplug a lamp but there's almost one per table
