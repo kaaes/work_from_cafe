@@ -14,18 +14,17 @@ Białystok
 * __Service:__ good, the owner is always inside and can organize more power outlets if needed
 * __Provision:__ coffee, tea, soft and alcoholic drinks. Good spinach tart, variety of cakes. Coffee a bit pricey, other drinks in good prices. You can also buy books there (mostly non-technical), it's also a bookstore.
 * __Link:__ [Facebook](http://www.facebook.com/pages/Kawiarnia-Akcent/139389146143599)
-
-Poznań
+ 
+Gdańsk
 ------
 
-### Kukania, ul Wojskowa 4, CityPark
-* __Internet:__ good wifi, ask for password
-* __Power plugs:__ A few nearby every table
-* __Seating:__ Comfortable chairs, a little too small tables for 2+ people
-* __Service:__ Greate service. You can ask for VIP roop, if you want to talk with bigger group of people in private.
-* __Provision:__ Greate coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
-* __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
-* __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
+### Costa Coffee, ul. Długa 5
+* __Internet:__ wifi free
+* __Power outlets:__ At the walls mostly
+* __Seating:__ Chairs and sofas
+* __Service:__ Self-service but nice
+* __Provision:__ coffee (really big), tea, sandwiches, muffins, sweets
+* __Link:__ [Homepage](http://www.costacoffee.pl/)
 
 Kraków
 ------
@@ -102,6 +101,26 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
+###Tajemniczy Ogród, Plac Nowy 9
+
+* __Internet:__ very good fast and stable wifi, open network
+* __Power plugs:__ need to unplug a lamp but there's almost one per table
+* __Seating:__ wooden chars or comfortable sofas depends on the room, easy to find comfortable place
+* __Service:__ nice, order at the bar but they usually bring coffee to the table
+* __Provision:__ good coffee, didn't check the food though
+* __Link:__ [Homepage](http://www.tajemniczyogrod.pl/plac), [Facebook](http://www.facebook.com/pages/tajemniczy-ogr%C3%B3d/107118389369660)
+
+Poznań
+------
+
+### Kukania, ul Wojskowa 4, CityPark
+* __Internet:__ good wifi, ask for password
+* __Power plugs:__ A few nearby every table
+* __Seating:__ Comfortable chairs, a little too small tables for 2+ people
+* __Service:__ Great service. You can ask for VIP room, if you want to talk with bigger group of people in private.
+* __Provision:__ Great coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
+* __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
+* __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
 
 Warszawa
 --------
@@ -133,3 +152,26 @@ London
 * __Service:__ excellent
 * __Provision:__ coffee, tea, cakes, sandwiches, drinks and vintage clothes.
 * __Link:__ [Homepage](http://www.cafevintage.co.uk/)
+
+### Departure Cafe, 649/651 Commercial Road, Limehouse, London E14 7LW
+* __Internet:__ wifi (~8Mbit/s)
+* __Power outlets:__ Plenty, 2 or 4 next to each desk, sofa or table
+* __Seating:__ Old sofas, chairs, table and chairs, art rooms, balcony, anywhere really
+* __Service:__ Everyone here is so nice, it feels wrong calling it service. Awesome
+* __Provision:__ coffee, tea, sandwiches, muffins, sweets, homemade things people bring in
+* __Link:__ [Homepage](http://www.depart.in/)
+
+
+Vilnius
+-------
+
+### CoffeInn, 17 Vilnius st.
+* __Internet:__ wifi free
+* __Power outlets:__ Almost everywhere
+* __Seating:__ Simple tables, few sitbags
+* __Service:__ Great. Food great. Coffee great. Everything - great.
+* __Provision:__ coffee, tea, sandwiches, muffins, sweets
+* __Link:__ [Homepage](http://coffee-inn.lt/
+
+
+
