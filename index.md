@@ -25,6 +25,7 @@ Gdańsk
 * __Service:__ Self-service but nice
 * __Provision:__ coffee (really big), tea, sandwiches, muffins, sweets
 * __Link:__ [Homepage](http://www.costacoffee.pl/)
+* __Opening hours:__ Mon-Fri 8-21, Sat 9-21, Sun 10-21
 
 Kraków
 ------

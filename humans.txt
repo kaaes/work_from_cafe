@@ -23,6 +23,12 @@
   Twitter: @daniula
   Location: Poznan, Poland
 
+  Name: Marcin Ciunelis
+  Site: http://martinciu.com
+  Github: martinciu
+  Twitter: @martinciu
+  Location: Gdańsk, Poland
+
   Name: your_name
   Site: your_personal_site
   Github: your_github_nick
