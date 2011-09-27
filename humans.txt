@@ -29,6 +29,12 @@
   Twitter: @martinciu
   Location: Gdańsk, Poland
 
+  Name: Lech Wilczyński
+  Site: http://opengrid.pl
+  Github: OpenGrid
+  Twitter: @DoctorLex
+  Location: Warsaw
+
   Name: your_name
   Site: your_personal_site
   Github: your_github_nick
