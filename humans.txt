@@ -27,7 +27,7 @@
   Site: http://martinciu.com
   Github: martinciu
   Twitter: @martinciu
-  Location: Gdańsk, Poland
+  Location: Gdansk, Poland
 
   Name: Lech Wilczyński
   Site: http://opengrid.pl
