@@ -1,16 +1,48 @@
-/* TEAM */
-  Cafe occupant: Kasia Drzyzga
-  Site: kasia.drzyzga.pl
-  Twitter: @kaaes
-  Location: Krakow, Poland
-  
-  GitHub fanboy: Przemek Owczarek
-  Twitter: @powczarek
-  Location: Krakow, Poland
-
 /* SITE */
-  Last update: 2011/08/01
   Doctype: HTML5
   Standards: HTML5, CSS3
   Software: Vim, TextMate, GitHub
+
+/* TEAM */
+  Cafe occupant: Kasia Drzyzga
+  Site: kasia.drzyzga.pl
+  Github: kaaes
+  Twitter: @kaaes
+  Location: Krakow, Poland
+
+  GitHub fanboy: Przemek Owczarek
+  Site: http://nobrak.es/
+  Github: nazgob
+  Twitter: @powczarek
+  Location: Krakow, Poland
+
+/* CONTRIBUTORS */
+  Name: Daniel Mendalka
+  Site: about.me/daniel.mendalka
+  Github: daniula
+  Twitter: @daniula
+  Location: Poznan, Poland
+
+  Name: Marcin Ciunelis
+  Site: http://martinciu.com
+  Github: martinciu
+  Twitter: @martinciu
+  Location: Gdansk, Poland
+
+  Name: Lech Wilczyński
+  Site: http://opengrid.pl
+  Github: OpenGrid
+  Twitter: @DoctorLex
+  Location: Warsaw
+
+  Name: Maciej Bilas
+  Github: maciej
+  Twitter: @maciejb
+  Location Poznan, Poland
+
+  Name: your_name
+  Site: your_personal_site
+  Github: your_github_nick
+  Twitter: your_twitter_handle
+  Location: your_location
 

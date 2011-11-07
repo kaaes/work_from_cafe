@@ -14,18 +14,18 @@ Białystok
 * __Service:__ good, the owner is always inside and can organize more power outlets if needed
 * __Provision:__ coffee, tea, soft and alcoholic drinks. Good spinach tart, variety of cakes. Coffee a bit pricey, other drinks in good prices. You can also buy books there (mostly non-technical), it's also a bookstore.
 * __Link:__ [Facebook](http://www.facebook.com/pages/Kawiarnia-Akcent/139389146143599)
-
-Poznań
+ 
+Gdańsk
 ------
 
-### Kukania, ul Wojskowa 4, CityPark
-* __Internet:__ good wifi, ask for password
-* __Power plugs:__ A few nearby every table
-* __Seating:__ Comfortable chairs, a little too small tables for 2+ people
-* __Service:__ Great service. You can ask for VIP room, if you want to talk with bigger group of people in private.
-* __Provision:__ Great coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
-* __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
-* __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
+### Costa Coffee, ul. Długa 5
+* __Internet:__ wifi free
+* __Power outlets:__ At the walls mostly
+* __Seating:__ Chairs and sofas
+* __Service:__ Self-service but nice
+* __Provision:__ coffee (really big), tea, sandwiches, muffins, sweets
+* __Link:__ [Homepage](http://www.costacoffee.pl/)
+* __Opening hours:__ Mon-Fri 8-21, Sat 9-21, Sun 10-21
 
 Kraków
 ------
@@ -121,6 +121,28 @@ Kraków
 * __Provision:__ awesome food, good coffee
 * __Link:__ [Homepage](http://momentcafe.pl)
 
+###Tajemniczy Ogród, Plac Nowy 9
+
+* __Internet:__ very good fast and stable wifi, open network
+* __Power plugs:__ need to unplug a lamp but there's almost one per table
+* __Seating:__ wooden chars or comfortable sofas depends on the room, easy to find comfortable place
+* __Service:__ nice, order at the bar but they usually bring coffee to the table
+* __Provision:__ good coffee, didn't check the food though
+* __Link:__ [Homepage](http://www.tajemniczyogrod.pl/plac), [Facebook](http://www.facebook.com/pages/tajemniczy-ogr%C3%B3d/107118389369660)
+
+Poznań
+------
+
+### Kukania, ul Wojskowa 4, CityPark
+* __Internet:__ good wifi, ask for password
+* __Power plugs:__ A few nearby every table
+* __Seating:__ Comfortable chairs, a little too small tables for 2+ people
+* __Service:__ Great service. You can ask for VIP room, if you want to talk with bigger group of people in private.
+* __Provision:__ Great coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
+* __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
+* __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
+>>>>>>> 9ef6486552accc1d59ee4dddeb2fa6551f758716
+
 Warszawa
 --------
 
@@ -170,4 +192,7 @@ Vilnius
 * __Seating:__ Simple tables, few sitbags
 * __Service:__ Great. Food great. Coffee great. Everything - great.
 * __Provision:__ coffee, tea, sandwiches, muffins, sweets
-* __Link:__ [Homepage](http://coffee-inn.lt/)
+* __Link:__ [Homepage](http://coffee-inn.lt/
+
+
+
