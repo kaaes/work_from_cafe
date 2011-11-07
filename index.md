@@ -48,6 +48,16 @@ Kraków
 * __Provision:__ great coffee (oh, their mocha!) and food plus decent prices
 * __Link:__ [Homepage](http://www.cafemlynek.pl/), [Facebook](http://www.facebook.com/pages/Cafe-M%C5%82ynek/178696854321)
 
+###Castor Coffee Club, Market Square, Plac Mariacki 1
+
+* __Internet:__ open wifi, decent connection speed
+* __Power plugs:__ lots of them located next to chairs
+* __Seating:__ very comfortable armchairs, sofas, few bar stools
+* __Service:__ very nice and not too obtrusive
+* __Provision:__ awesome coffee and coffee variations (red cappuccino and chai lattes are great!). Bit small choice of food (quiches, tarts, wraps, sandwiches, cakes and pies)
+* __Link:__ [Facebook](http://pl-pl.facebook.com/pages/Castor-Coffee-Club/154565244603777)
+* __Opening hours:__ Mon-Sun 7-23
+
 ###Drukarnia, ul. Nadwiślańska 1
 
 * __Internet:__ wifi, good connection, open network (however it might not work once a fortnight or so)
@@ -102,6 +112,14 @@ Kraków
 * __Provision:__ good coffee, awesome tomato soup, normal prices
 * __Link:__ [Homepage](http://www.lescandale.pl/kazimierz/onas.html), [Facebook](http://www.facebook.com/LeScandale)
 
+###Moment, the corner of Plac Nowy and Jozefa street
+
+* __Internet:__ reasonable connection speed, works only in the room on the right from the entrance
+* __Power plugs:__ there are few easily accessible, if not you can always unplug one of the lamps ;)
+* __Seating:__ comfortable sofas and chairs
+* __Service:__ great guys that will keep the track of your empty glass 
+* __Provision:__ awesome food, good coffee
+* __Link:__ [Homepage](http://momentcafe.pl)
 
 Warszawa
 --------
