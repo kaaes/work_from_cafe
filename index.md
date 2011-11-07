@@ -133,7 +133,8 @@ Kraków
 Poznań
 ------
 
-### Kukania, ul Wojskowa 4, CityPark
+###Kukania, ul Wojskowa 4, CityPark
+
 * __Internet:__ good wifi, ask for password
 * __Power plugs:__ A few nearby every table
 * __Seating:__ Comfortable chairs, a little too small tables for 2+ people
@@ -141,7 +142,6 @@ Poznań
 * __Provision:__ Great coffee ([Mundo Novo](http://www.unoespresso.pl/nasza_oferta/kawa/41/52.html)) and delicious salads with rucola.
 * __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
 * __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
->>>>>>> 9ef6486552accc1d59ee4dddeb2fa6551f758716
 
 Warszawa
 --------
