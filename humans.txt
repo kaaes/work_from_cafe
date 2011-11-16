@@ -40,9 +40,8 @@
   Twitter: @maciejb
   Location Poznan, Poland
 
-  Name: your_name
-  Site: your_personal_site
-  Github: your_github_nick
-  Twitter: your_twitter_handle
-  Location: your_location
-
+  Name: Jerzy Głowacki
+  Site: http://niute.ch
+  Github: niutech
+  Twitter: @niu_tech
+  Location: Krakow, Poland
