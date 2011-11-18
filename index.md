@@ -182,6 +182,13 @@ London
 * __Provision:__ coffee, tea, sandwiches, muffins, sweets, homemade things people bring in
 * __Link:__ [Homepage](http://www.depart.in/)
 
+### Scandinavian Kitchen, 61 Great Titchfield Street, London W1W 7PP
+* __Internet:__ free, WPA-protected Wi-Fi (~10 Mbps), stable and speedy
+* __Power outlets:__ few are present, at least in the basement room
+* __Seating:__ chairs, single/double tables, and a big table for group of 5-6 people available in the basement room
+* __Service:__ ordering over the counter but staff is happy to bring drinks/food to the table, they are really nice and friendly anyway
+* __Provision:__ hot and cold drinks, snacks, sweets and hot food during lunchtime; scandinavian deli also available
+* __Link:__ [Homepage](http://www.scandikitchen.co.uk/)
 
 Vilnius
 -------
