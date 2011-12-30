@@ -143,6 +143,18 @@ Poznań
 * __Link:__ [Homepage](http://www.kukania.pl/), [Facebook](https://www.facebook.com/pages/Kukania-CafeBar/124864080931538)
 * __Opening hours:__ Mon-Fri 8-22, Sat-Sun 10-22
 
+Szczecin
+--------
+
+### Starbucks Coffee, Galeria KASKADA
+* __Internet:__ Free WiFi, but not so fast
+* __Power outlets:__ On the walls
+* __Seating:__ Chairs and sofas
+* __Service:__ Self-service
+* __Provision:__ Coffee (recommend the Skinny Vanilla Latte), Tea, Sandwiches, Muffins, etc.
+* __Link:__ [Homepage](http://www.facebook.com/pages/Starbucks-Szczecin/144523252310659)
+* __Opening hours:__ Mon-Fri between 9-11 to 21-22, Sat/Sun between 9-11 to 19-22
+
 Warszawa
 --------
 
