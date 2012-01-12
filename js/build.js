@@ -6,7 +6,7 @@
 			service : 'Service',
 			provision : 'Provision',
 			hours : 'Opening time'
-		};
+		},
 		itemTemplate = '<h3>{{name}}, {{address}}</h3><ul>{{#description}}{{{.}}}{{/description}}</ul>',
 		description = '<li><strong>{{key}}:</strong> {{value}}</li>';
 		cityHeader = '<h2>{{city}}</h2>';
@@ -55,18 +55,35 @@
 					address : item.address,
 					description: list
 				}),
-				city : item.city
+				city : item.city,
+				country : item.country
 			});
 		}
-		
-		itemsHtml.sort(byCity);
+		itemsHtml.sort(byCountryAndCity);
 		
 		return itemsHtml;
+	}
+	
+	function byCountryAndCity(a, b) {
+		var country = byCountry(a, b)
+		return country ? country : byCity(a, b); 
 	}
 	
 	function byCity(a, b) {
 		return a.city < b.city ? -1 : a.city > b.city ? 1 : 0;
 	}
+	
+	var byCountry = (function(){
+		var countryOrder = ['pl', 'gb', 'lt'];
+		return function(a, b) {
+			var aCode = a.country.toLowerCase(), 
+				bCode = b.country.toLowerCase(),
+				aIndex = countryOrder.indexOf(aCode), 
+				bIndex = countryOrder.indexOf(bCode);
+				
+			return aIndex < bIndex ? -1 : aIndex > bIndex ? 1 : 0;
+		}
+	})()
 	
 	function byId(id) {
 		return document.getElementById(id);
