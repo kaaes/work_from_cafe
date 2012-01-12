@@ -7,8 +7,9 @@
 			provision : 'Provision',
 			hours : 'Opening time'
 		},
-		itemTemplate = '<h3>{{name}}, {{address}}</h3><ul>{{#description}}{{{.}}}{{/description}}</ul>',
-		description = '<li><strong>{{key}}:</strong> {{value}}</li>';
+		mapLinkTemplate = '<a href="http://maps.google.com/maps?q={{coords}}">See on map</a>',
+		itemTemplate = '<h3>{{name}}, {{address}} {{{mapLink}}}</h3><ul>{{#description}}{{{.}}}{{/description}}</ul>',
+		description = '<li><strong>{{key}}:</strong> {{value}}</li>',
 		cityHeader = '<h2>{{city}}</h2>';
 
 	function renderPage(items) {
@@ -53,6 +54,7 @@
 				html : Mustache.to_html(itemTemplate, {
 					name : item.name,
 					address : item.address,
+					mapLink : item.coordinates ? Mustache.to_html(mapLinkTemplate, {coords : item.coordinates.join(',')}) : '',
 					description: list
 				}),
 				city : item.city,
