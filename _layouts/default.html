@@ -6,6 +6,8 @@
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,300,400,600&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="static/css/style.css">
 		<link rel="icon" type="image/png" href="static/images/favicon.png"/>
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
 	</head>
 	<body>
 		<div id="main">
@@ -40,7 +42,9 @@
 					Any accepted pull request is published immediately and you are a community hero.</p>
 					<a id="list-link" href="#list" title="To top of the list">To top of the list</a>
 				</div>
-
+				<h2>Check cafe on a map</h2>
+				<div id="map"></div>
+				<script type="text/javascript" src="static/javascript/map.js"></script>
 				<div id="list">
 					{{ content }}
 				</div>
