@@ -1,6 +1,7 @@
 [
 {
     "city": "Białystok",
+    "country": "PL",
     "name": "Akcent Kawiarnia i Księgarnia",
     "address": "Rynek Kościuszki 17",
     "coordinates": "",
@@ -15,6 +16,7 @@
 },
 {
     "city": "Gdańsk",
+    "country": "PL",
     "name": "Costa Coffee",
     "address": "Długa 5",
     "coordinates": "",
@@ -30,6 +32,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Bunkier Sztuki",
     "address": "Planty, Plac Szczepanski",
     "coordinates": "",
@@ -44,6 +47,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Cafe Młynek",
     "address": "Plac Wolnica",
     "coordinates": "",
@@ -58,6 +62,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Castor Coffee Club",
     "address": "Market Square, Plac Mariacki 1",
     "coordinates": "",
@@ -73,6 +78,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Drukarnia",
     "address": "Nadwiślańska 1",
     "coordinates": "",
@@ -87,6 +93,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Gazeta Cafe",
     "address": "Bracka 14",
     "coordinates": "",
@@ -102,6 +109,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Indalo Cafe",
     "address": "Tarłowska",
     "coordinates": "",
@@ -116,6 +124,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Karma",
     "address": "Krupnicza 12",
     "coordinates": "",
@@ -130,6 +139,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Kolory",
     "address": "Plac Nowy",
     "coordinates": "",
@@ -143,6 +153,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Le Scandale",
     "address": "Plac Nowy",
     "coordinates": "",
@@ -157,6 +168,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Moment",
     "address": "the corner of Plac Nowy and Jozefa street",
     "coordinates": "",
@@ -171,6 +183,7 @@
 },
 {
     "city": "Kraków",
+    "country": "PL",
     "name": "Tajemniczy Ogród",
     "address": "Plac Nowy 9",
     "coordinates": "",
@@ -185,6 +198,7 @@
 },
 {
     "city": "Poznań",
+    "country": "PL",
     "name": "Kukania",
     "address": "Wojskowa 4, CityPark",
     "coordinates": "",
@@ -200,6 +214,7 @@
 },
 {
     "city": "Szczecin",
+    "country": "PL",
     "name": "Starbucks Coffee",
     "address": "Galeria KASKADA",
     "coordinates": "",
@@ -215,6 +230,7 @@
 },
 {
     "city": "Warszawa",
+    "country": "PL",
     "name": "Tarabuk",
     "address": "Browarna, Powiśle",
     "coordinates": "",
@@ -229,6 +245,7 @@
 },
 {
     "city": "Warszawa",
+    "country": "PL",
     "name": "W Biegu Cafe",
     "address": "Świętokrzyska 18, near Tube station",
     "coordinates": "",
@@ -243,6 +260,7 @@
 },
 {
     "city": "London",
+    "country": "GB",
     "name": "Cafe Vintage",
     "address": "88 Mountgrove Road London N5 2LT, near Arsenal Tube",
     "coordinates": "",
@@ -257,6 +275,7 @@
 },
 {
     "city": "London",
+    "country": "GB",
     "name": "Departure Cafe",
     "address": "649/651 Commercial Road, Limehouse, London E14 7LW",
     "coordinates": "",
@@ -271,6 +290,7 @@
 },
 {
     "city": "London",
+    "country": "GB",
     "name": "Scandinavian Kitchen",
     "address": "61 Great Titchfield Street, London W1W 7PP",
     "coordinates": "",
@@ -285,6 +305,7 @@
 },
 {
     "city": "Vilnius",
+    "country": "LT",
     "name": "CoffeInn",
     "address": "17 Vilnius st.",
     "coordinates": "",
