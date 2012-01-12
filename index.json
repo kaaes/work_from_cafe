@@ -1,4 +1,4 @@
-[
+var places = [
 {
     "city": "Białystok",
     "name": "Akcent Kawiarnia i Księgarnia",
