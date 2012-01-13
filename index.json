@@ -35,7 +35,7 @@ var places = [
     "country": "PL",
     "name": "Bunkier Sztuki",
     "address": "Planty, Plac Szczepanski",
-    "coordinates": "",
+    "coordinates": ["50.063382", "19.934096"],
     "description": {
         "internet": "good wifi, open network",
         "power_outlets": "one can get to them",
@@ -50,7 +50,7 @@ var places = [
     "country": "PL",
     "name": "Cafe Młynek",
     "address": "Plac Wolnica",
-    "coordinates": "",
+    "coordinates": ["50.049178", "19.944645"],
     "description": {
         "internet": "wifi, good connection, ask for password",
         "power_outlets": "accessible, two are near to white sofa next to window",
@@ -65,7 +65,7 @@ var places = [
     "country": "PL",
     "name": "Castor Coffee Club",
     "address": "Market Square, Plac Mariacki 1",
-    "coordinates": "",
+    "coordinates": ["50.062055", "19.939683"],
     "description": {
         "internet": "open wifi, decent connection speed",
         "power_outlets": "lots of them located next to chairs",
@@ -81,7 +81,7 @@ var places = [
     "country": "PL",
     "name": "Drukarnia",
     "address": "Nadwiślańska 1",
-    "coordinates": "",
+    "coordinates": ["50.046077", "19.94929"],
     "description": {
         "internet": "wifi, good connection, open network (however it might not work once a fortnight or so",
         "power_outlets": "accessible, approximately one plug every two tables",
@@ -96,7 +96,7 @@ var places = [
     "country": "PL",
     "name": "Gazeta Cafe",
     "address": "Bracka 14",
-    "coordinates": "",
+    "coordinates": ["50.059588", "19.936283"],
     "description": {
         "internet": "open wifi that requires you to accept terms and conditions. It tends to reset itself from time to time so expect to see this t&c page a lot. But connection is good",
         "power_outlets": "accessible and lots of them - looks like they were put there especially for us :",
@@ -112,7 +112,7 @@ var places = [
     "country": "PL",
     "name": "Indalo Cafe",
     "address": "Tarłowska",
-    "coordinates": "",
+    "coordinates": ["50.057396", "19.931252"],
     "description": {
         "internet": "open wifi",
         "power_outlets": "accessible",
@@ -127,7 +127,7 @@ var places = [
     "country": "PL",
     "name": "Karma",
     "address": "Krupnicza 12",
-    "coordinates": "",
+    "coordinates": ["50.063439", "19.930681"],
     "description": {
         "internet": "open (non-encrypted) WiFi, decent connection speed",
         "power_outlets": "accessible when sitting by a wall, they're located under the seats",
@@ -142,7 +142,7 @@ var places = [
     "country": "PL",
     "name": "Kolory",
     "address": "Plac Nowy",
-    "coordinates": "",
+    "coordinates": ["50.051932", "19.945362"],
     "description": {
         "internet": "open wifi, good connection",
         "power_outlets": "easily accessible and lots of them, especially in the patio in the back",
@@ -156,7 +156,7 @@ var places = [
     "country": "PL",
     "name": "Le Scandale",
     "address": "Plac Nowy",
-    "coordinates": "",
+    "coordinates": ["50.052021", "19.944696"],
     "description": {
         "internet": "good wifi, open network",
         "power_outlets": "I saw few outside in the garden, but haven't tried plugging inside",
@@ -171,7 +171,7 @@ var places = [
     "country": "PL",
     "name": "Moment",
     "address": "the corner of Plac Nowy and Jozefa street",
-    "coordinates": "",
+    "coordinates": ["50.051001", "19.945856"],
     "description": {
         "internet": "reasonable connection speed, works only in the room on the right from the entrance",
         "power_outlets": "there are few easily accessible, if not you can always unplug one of the lamps ;",
@@ -186,7 +186,7 @@ var places = [
     "country": "PL",
     "name": "Tajemniczy Ogród",
     "address": "Plac Nowy 9",
-    "coordinates": "",
+    "coordinates": ["50.052021", "19.944696"],
     "description": {
         "internet": "very good fast and stable wifi, open network",
         "power_outlets": "need to unplug a lamp but there's almost one per table",
