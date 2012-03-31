@@ -317,5 +317,65 @@ var places = [
         "provision": "coffee, tea, sandwiches, muffins, sweets"
     },
     "link": {"Homepage":"http://coffee-inn.lt/"}
+},
+{
+    "city": "Stockholm",
+    "country": "SE",
+    "name": "Cafe Gråmunken",
+    "address": "Västerlånggatan 18",
+    "coordinates": "59.325478,18.068847",
+    "description": {
+        "internet": "wifi free (password: cafegramunken)",
+        "power_outlets": "There are a few",
+        "seating": "Normal tables",
+        "service": "Greeat hot chocolate",
+        "provision": "coffee, tea, sandwiches, muffins, sweets"
+    },
+    "link": {"Homepage":"https://www.facebook.com/pages/Caf%C3%A9-Gr%C3%A5munken/138341679557900"}
+},
+{
+    "city": "Stockholm",
+    "country": "SE",
+    "name": "Le Cafe",
+    "address": "Klarabergsviadukten 61",
+    "coordinates": "59.325473,18.068841",
+    "description": {
+        "internet": "wifi free",
+        "power_outlets": "There are a few",
+        "seating": "Normal tables",
+        "service": "Great",
+        "provision": "coffee, tea, sandwiches, muffins, sweets"
+    },
+    "link": {"Homepage":"http://www.lecafe.nu/"}
+},
+{
+    "city": "Stockholm",
+    "country": "SE",
+    "name": "Cafe Mocco",
+    "address": "Kommendörsgatan 17 (Nybrogatan)",
+    "coordinates": "59.338722,18.079898",
+    "description": {
+        "internet": "wifi free (password: mocco2010)",
+        "power_outlets": "There are a few",
+        "seating": "Comfortable tables and couches",
+        "service": "Great",
+        "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
+    },
+    "link": {"Homepage":"http://www.mocco.se/?page_id=703"}
+},
+{
+    "city": "Stockholm",
+    "country": "SE",
+    "name": "Non Solo Bar",
+    "address": "Odengatan 34",
+    "coordinates": "59.338727,18.079891",
+    "description": {
+        "internet": "wifi free",
+        "power_outlets": "There are a few",
+        "seating": "Normal tables",
+        "service": "Great",
+        "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
+    },
+    "link": {"Homepage":"http://www.nonsolobar.com/nonsolo.swf"}
 }
 ]
