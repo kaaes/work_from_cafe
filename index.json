@@ -323,7 +323,7 @@ var places = [
     "country": "SE",
     "name": "Cafe Gråmunken",
     "address": "Västerlånggatan 18",
-    "coordinates": "59.325478,18.068847",
+    "coordinates": ["59.325478","18.068847"],
     "description": {
         "internet": "wifi free (password: cafegramunken)",
         "power_outlets": "There are a few",
@@ -338,7 +338,7 @@ var places = [
     "country": "SE",
     "name": "Le Cafe",
     "address": "Klarabergsviadukten 61",
-    "coordinates": "59.325473,18.068841",
+    "coordinates": ["59.325473","18.068841"],
     "description": {
         "internet": "wifi free",
         "power_outlets": "There are a few",
@@ -353,7 +353,7 @@ var places = [
     "country": "SE",
     "name": "Cafe Mocco",
     "address": "Kommendörsgatan 17 (Nybrogatan)",
-    "coordinates": "59.338722,18.079898",
+    "coordinates": ["59.338722","18.079898"],
     "description": {
         "internet": "wifi free (password: mocco2010)",
         "power_outlets": "There are a few",
@@ -368,7 +368,7 @@ var places = [
     "country": "SE",
     "name": "Non Solo Bar",
     "address": "Odengatan 34",
-    "coordinates": "59.338727,18.079891",
+    "coordinates": ["59.338727","18.079891"],
     "description": {
         "internet": "wifi free",
         "power_outlets": "There are a few",
