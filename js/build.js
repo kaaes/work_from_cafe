@@ -34,13 +34,15 @@
 			len = items.length,
 			item, desc, keys, list,
 			cityList = [],
-			itemsHtml = [];
+			itemsHtml = [],
+			coordinates;
 		
 		for(;i<len; i++) {
 			list = [];
 			item = items[i];
 			desc = item.description;
 			keys = Object.keys(desc);
+			coordinates = '';
 			
 			if(cityList.indexOf(item.city) === -1) {
 				cityList.push(item.city);
@@ -50,11 +52,19 @@
 				list.push(Mustache.to_html(description, {key: textKeys[el], value: desc[el]}));
 			});
 			
+			if(item.coordinates) {
+			  if(typeof item.coordinates === 'string') {
+			    corrdinates = item.coordinates;
+			  } else if(item.coordinates.constructor === Array) {
+			    coordinates = item.coordinates.join(',');
+			  }
+			}
+
 			itemsHtml.push({
 				html : Mustache.to_html(itemTemplate, {
 					name : item.name,
 					address : item.address,
-					mapLink : item.coordinates ? Mustache.to_html(mapLinkTemplate, {coords : item.coordinates.join(',')}) : '',
+					mapLink : coordinates ? Mustache.to_html(mapLinkTemplate, {coords : coordinates}) : '',
 					description: list
 				}),
 				city : item.city,
@@ -76,7 +86,7 @@
 	}
 	
 	var byCountry = (function(){
-		var countryOrder = ['pl', 'gb', 'lt'];
+		var countryOrder = ['pl', 'se', 'gb', 'lt'];
 		return function(a, b) {
 			var aCode = a.country.toLowerCase(), 
 				bCode = b.country.toLowerCase(),

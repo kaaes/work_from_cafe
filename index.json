@@ -338,7 +338,7 @@ var places = [
     "country": "SE",
     "name": "Le Cafe",
     "address": "Klarabergsviadukten 61",
-    "coordinates": ["59.325473","18.068841"],
+    "coordinates": ["59.330323","18.05558"],
     "description": {
         "internet": "wifi free",
         "power_outlets": "There are a few",
@@ -368,7 +368,7 @@ var places = [
     "country": "SE",
     "name": "Non Solo Bar",
     "address": "Odengatan 34",
-    "coordinates": ["59.338727","18.079891"],
+    "coordinates": ["59.345029","18.059034"],
     "description": {
         "internet": "wifi free",
         "power_outlets": "There are a few",
