@@ -377,5 +377,20 @@ var places = [
         "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
     },
     "link": {"Homepage":"http://www.nonsolobar.com/nonsolo.swf"}
-}
+},
+{
+    "city": "Gliwice",
+    "country": "PL",
+    "name": "Club Hemingway",
+    "address": "Rynek ul. Raciborska 2",
+    "coordinates": ["50.294192","18.664849"],
+    "description": {
+        "internet": "Free fast and stable WiFi",
+        "power_outlets": "Near few tables",
+        "seating": "big, little uncomfortable chairs, few benches and reasonably big wood tables",
+        "service": "always enough to get you another drink",
+        "provision": "coffee, tea, soft, alcoholic drinks, icecream, dinner and a lot more things"
+    },
+    "link": {"Homepage":"http://www.hemingwayclub.pl"}
+},
 ]
