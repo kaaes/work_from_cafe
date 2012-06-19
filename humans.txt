@@ -52,6 +52,12 @@
   Twitter: @mcintoshlee
   Location: London, UK or Gdynia, Poland
 
+  Name: Kamil Ogórek
+  Site: http://kamilogorek.pl
+  Github: kamilogorek
+  Twitter: @kamilogorek
+  Location: Gliwice, PL
+
 -  Name: your_name
 -  Site: your_personal_site
 -  Github: your_github_nick
