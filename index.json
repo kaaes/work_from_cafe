@@ -207,7 +207,8 @@ var places = [
         "power_outlets": "free 3-nest socket close to the main entrance and the other one near the wall",
         "seating": "wooden chairs",
         "service": "very nice, order at the bar",
-        "provision": "good coffee, teas, soups, salads and sandwiches, quite cheap"
+        "provision": "good coffee, teas, soups, salads and sandwiches, quite cheap",
+        "hours": "Mon-Sat 7-19, Sun 7.30-19"
     },
     "link": {"Homepage":"http://lunchboxcafe.pl/", "Facebook":"http://pl-pl.facebook.com/pages/LUNCH-BOX-CAFE/123777694381442"}
 },
