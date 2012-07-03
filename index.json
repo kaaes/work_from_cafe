@@ -377,5 +377,20 @@ var places = [
         "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
     },
     "link": {"Homepage":"http://www.nonsolobar.com/nonsolo.swf"}
+},
+{
+    "city": "Cologne",
+    "country": "DE",
+    "name": "Goldmund Literatur Cafe",
+    "address": "Glasstraße 2",
+    "coordinates": ["50.951221","6.919882"],
+    "description": {
+        "internet": "wifi, ask for password and an additional Telekom Hotspot",
+        "power_outlets": "There are a few, no power in the beer garden (obviously)",
+        "seating": "Normal tables",
+        "service": "Great",
+        "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
+    },
+    "link": {"Homepage":"http://www.goldmundkoeln.de"}
 }
 ]
