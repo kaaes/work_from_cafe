@@ -197,6 +197,22 @@ var places = [
     "link": {"Homepage":"http://www.tajemniczyogrod.pl/plac", "Facebook":"http://www.facebook.com/pages/tajemniczy-ogr%C3%B3d/107118389369660"}
 },
 {
+    "city": "Kraków",
+    "country": "PL",
+    "name": "Lunch Box Cafe",
+    "address": "Starowiślna 22 (wejście od Dietla)",
+    "coordinates": ["50.05673", "19.94518"],
+    "description": {
+        "internet": "very good, fast and stable wifi, open network",
+        "power_outlets": "free 3-nest socket close to the main entrance and the other one near the wall",
+        "seating": "wooden chairs",
+        "service": "very nice, order at the bar",
+        "provision": "good coffee, teas, soups, salads and sandwiches, quite cheap",
+        "hours": "Mon-Sat 7-19, Sun 7.30-19"
+    },
+    "link": {"Homepage":"http://lunchboxcafe.pl/", "Facebook":"http://pl-pl.facebook.com/pages/LUNCH-BOX-CAFE/123777694381442"}
+},
+{
     "city": "Poznań",
     "country": "PL",
     "name": "Kukania",
