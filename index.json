@@ -213,6 +213,22 @@ var places = [
     "link": {"Homepage":"http://lunchboxcafe.pl/", "Facebook":"http://pl-pl.facebook.com/pages/LUNCH-BOX-CAFE/123777694381442"}
 },
 {
+    "city": "Kraków",
+    "country": "PL",
+    "name": "Korek Eco Resto Bar",
+    "address": "Czysta 8",
+    "coordinates": ["50.060445", "19.937936"],
+    "description": {
+        "internet": "very good, fast and stable wifi, password protected",
+        "power_outlets": "single sockets",
+        "seating": "good chairs, sofas",
+        "service": "very nice, order at the table/bar",
+        "provision": "good coffee, teas, soups, salads and sandwiches, cakes",
+        "hours": "Mon-Sun 8.30 - 22.00"
+    },
+    "link": {"Homepage":"http://www.korekrestobar.pl"}
+},
+{
     "city": "Poznań",
     "country": "PL",
     "name": "Kukania",
