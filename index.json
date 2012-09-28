@@ -424,5 +424,21 @@ var places = [
         "provision": "coffee, tea, sandwiches, muffins, sweets, lunch"
     },
     "link": {"Homepage":"http://www.goldmundkoeln.de"}
+},
+{
+    "city": "Lyon",
+    "country": "FR",
+    "name": "L'Antre Autre",
+    "address": "11 rue Terme - Metro Hôtel de Ville",
+    "coordinates": ["45.769484","4.83162"],
+    "description": {
+        "internet": "Free wifi, just ask for the password",
+        "power_outlets": "There are a few",
+        "seating": "Comfortable tables and couches",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, juices, beers, cake, muffins, etc",
+        "hours": "Tue 11.30-15, 18.30-23, Wed-Sat 11.30-23"
+    },
+    "link": {"Homepage":"http://lantreautre.fr"}
 }
 ]
