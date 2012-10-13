@@ -58,6 +58,12 @@
   Twitter: @kamilogorek
   Location: Gliwice, PL
 
+  Name: Diogo Neves
+  Site: http://diogoneves.com
+  Github: DiogoNeves
+  Twitter: @DiogoSnows
+  Location: Cambridge, UK
+
 -  Name: your_name
 -  Site: your_personal_site
 -  Github: your_github_nick
