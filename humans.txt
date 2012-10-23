@@ -64,6 +64,12 @@
   Twitter: @DiogoSnows
   Location: Cambridge, UK
 
+  Name: Balthazar Rouberol
+  Site: http://balthazar-rouberol.com
+  Github: BaltoRouberol
+  Twitter: @brouberol
+  Location: Lyon, Fr
+
 -  Name: your_name
 -  Site: your_personal_site
 -  Github: your_github_nick
