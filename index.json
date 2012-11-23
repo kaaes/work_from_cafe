@@ -306,6 +306,21 @@ var places = [
     "link": {"Homepage":"http://www.wbiegucafe.pl/", "Facebook":"http://www.facebook.com/wbiegucafebyjacobskronung"}
 },
 {
+    "city": "Wojnicz",
+    "country": "PL",
+    "name": "Missterium",
+    "address": "Krakowska 111, near exit from road no 4",
+    "coordinates": ["49.95888", "20.81786"],
+    "description": {
+        "internet": "wifi (~2Mbit/s)",
+        "power_outlets": "Generally available if you sit close to a wall",
+        "seating": "comfy chairs, nice fireplace in the center",
+        "service": "good",
+        "provision": "coffee, tea, good pizza."
+    },
+    "link": {"Homepage":"http://www.missterium.pl/"}
+},
+{
     "city": "London",
     "country": "GB",
     "name": "Cafe Vintage",
