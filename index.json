@@ -276,6 +276,21 @@ var places = [
     "link": {"Homepage":"http://www.facebook.com/pages/Starbucks-Szczecin/144523252310659"}
 },
 {
+    "city": "Szczecin",
+    "country": "PL",
+    "name": "Fabryka",
+    "address": "Księcia Bogusława X",
+    "coordinates": ["53.430465", "14.54426"],
+    "description": {
+        "internet": "free wifi, good connection. There also should be some hotspots",
+        "power_outlets": "almost every table has an easy access to a power outlet",
+        "seating": "chairs & sofas",
+        "service": "nice guys",
+        "provision": "great coffee and food plus decent prices"
+    },
+    "link": { "Facebook":"http://www.facebook.com/fabrykanadeptaku"}
+},
+{
     "city": "Warszawa",
     "country": "PL",
     "name": "Tarabuk",
