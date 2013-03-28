@@ -70,6 +70,12 @@
   Twitter: @brouberol
   Location: Lyon, Fr
 
+  Name: Szymon Fortuna
+  Github: SzymonFortuna
+  Twitter: @fortunajs
+  Location: Krakow, PL
+  
+
 -  Name: your_name
 -  Site: your_personal_site
 -  Github: your_github_nick
