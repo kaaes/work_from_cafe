@@ -169,6 +169,22 @@ var places = [
 {
     "city": "Kraków",
     "country": "PL",
+    "name": "Konfederacka 4",
+    "address": "Konfederacka 4",
+    "coordinates": ["50.049941", "19.926583"],
+    "description": {
+        "internet": "password encrypted, stable and fast",
+        "power_outlets": "two per table",
+        "seating": "wooden chairs",
+        "service": "very nice, at the bar, there is also a friendly cat",
+        "provision": "great coffee, freshly squizzed juice and tapas",
+        "hours": "Mon-Sun 10-22"
+    },
+    "link": {"Facebook": "https://www.facebook.com/konfederacka4"}
+},
+{
+    "city": "Kraków",
+    "country": "PL",
     "name": "Le Scandale",
     "address": "Plac Nowy",
     "coordinates": ["50.052021", "19.944696"],
@@ -243,6 +259,23 @@ var places = [
     },
     "link": {"Homepage":"http://www.korekrestobar.pl"}
 },
+{
+    "city": "Kraków",
+    "country": "PL",
+    "name": "Tektura",
+    "address": "Krupnicza 7",
+    "coordinates": ["50.063573", "19.931117"],
+    "description": {
+        "internet": "very fast and stable wifi, password at the bar",
+        "power_outlets": "can be easily found",
+        "seating": "wooden chairs, couches, benches",
+        "service": "nice and knowledgeable, order at the bar",
+        "provision": "very good coffee, beer, tarts, muffins and many more",
+        "hours": "Mon-Fri 8-22, Sat-Sun 9-22"
+    },
+    "link": {"Facebook":"https://www.facebook.com/pages/Tektura/356751461078030"}
+},
+
 {
     "city": "Poznań",
     "country": "PL",
