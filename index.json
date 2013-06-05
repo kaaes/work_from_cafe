@@ -319,7 +319,8 @@ var places = [
         "power_outlets": "almost every table has an easy access to a power outlet",
         "seating": "chairs & sofas",
         "service": "nice guys",
-        "provision": "great coffee and food plus decent prices"
+        "provision": "great coffee and food plus decent prices",
+        "hours": "Opens at 7.30, so it's good if you need to start early"
     },
     "link": { "Facebook":"http://www.facebook.com/fabrykanadeptaku"}
 },
