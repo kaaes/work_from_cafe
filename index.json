@@ -432,6 +432,21 @@ var places = [
 {
     "city": "Stockholm",
     "country": "SE",
+    "name": "Il Caffè",
+    "address": "Södermannagatan 23",
+    "coordinates": ["59.313163","18.080807"],
+    "description": {
+        "internet": "wifi free",
+        "power_outlets": "Every two tables",
+        "seating": "Normal tables",
+        "service": "Greeat coffee, great sandwitches",
+        "provision": "coffee, tea, sandwiches, muffins, sweets"
+    },
+    "link": {"Homepage":"http://ilcaffe.se/"}
+},
+{
+    "city": "Stockholm",
+    "country": "SE",
     "name": "Cafe Gråmunken",
     "address": "Västerlånggatan 18",
     "coordinates": ["59.325478","18.068847"],
