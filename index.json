@@ -48,6 +48,21 @@ var places = [
 {
     "city": "Kraków",
     "country": "PL",
+    "name": "BonJour CaVa",
+    "address": "Warszawska 16",
+    "coordinates": ["50.069935", "19.943511"],
+    "description": {
+        "internet": "good wifi, ask for password",
+        "power_outlets": "accessible, lots of them",
+        "seating": "chairs and benches with lots of pillows",
+        "service": "very nice girls, won't disturb you",
+        "provision": "amazing coffe and very good food (breakfasts, dinners, cakes and tarts)"
+    },
+    "link": {"Facebook":"https://www.facebook.com/KawiarniaBonjourCava"}
+},
+{
+    "city": "Kraków",
+    "country": "PL",
     "name": "Bunkier Sztuki",
     "address": "Planty, Plac Szczepanski",
     "coordinates": ["50.063382", "19.934096"],
