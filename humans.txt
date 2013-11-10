@@ -75,6 +75,10 @@
   Twitter: @fortunajs
   Location: Krakow, PL
   
+  Name: Frédéric Harper
+  Github: fharper
+  Twitter: @fharper
+  Location: Montréal, CA
 
 -  Name: your_name
 -  Site: your_personal_site
