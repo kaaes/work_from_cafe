@@ -551,5 +551,21 @@ var places = [
         "hours": "All days 7.00-23.00"
     },
     "link": {"Homepage":"https://www.facebook.com/pages/Le-Baobab-caf%C3%A9/165900173449505"}
+},
+{
+    "city": "Montréal",
+    "country": "CA",
+    "name": "Station café W",
+    "address": "3852 Rue Wellington",
+    "coordinates": ["45.46543, -73.56677"],
+    "description": {
+        "internet": "Free wifi, good speed, just ask for the password",
+        "power_outlets": "There are a few",
+        "seating": "Many tables, and a large one",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, juices, soft drinks, sandwiches, etc",
+        "hours": "Mon-Fri 7.00-21.00, Sat-Sun 8.00-17.00"
+    },
+    "link": {"Homepage":"http://www.station-w.com/"}
 }
 ]
