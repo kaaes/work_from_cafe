@@ -575,7 +575,7 @@ var places = [
     "address": "Preslova 3, 130 00 Prague",
     "coordinates": ["50.0727490, 14.4067160"],
     "description": {
-        "internet": "Free wifi, ask for the password",
+        "internet": "Free wifi, password (1111111111)",
         "power_outlets": "I didn't find one in my section",
         "seating": "Normal tables in two sections",
         "service": "Great",
@@ -591,7 +591,7 @@ var places = [
     "address": "Trojanova 4, 128 00 Prague",
     "coordinates": ["50.0740050, 14.4145020"],
     "description": {
-        "internet": "Free wifi, ask for the password",
+        "internet": "Free wifi (not super reliable), password (2013Daruma)",
         "power_outlets": "There are some, but you need to find them",
         "seating": "Many small sections",
         "service": "Great",
