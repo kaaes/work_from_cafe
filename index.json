@@ -267,7 +267,7 @@ var places = [
     "coordinates": ["50.063573", "19.931117"],
     "description": {
         "internet": "very fast and stable wifi, password at the bar",
-        "power_outlets": "can be easily found",
+        "power_outlets": "can be easily found, mostly one per table",
         "seating": "wooden chairs, couches, benches",
         "service": "nice and knowledgeable, order at the bar",
         "provision": "very good coffee, beer, tarts, muffins and many more",
@@ -535,5 +535,96 @@ var places = [
         "hours": "Mon-Thu 8.00-20.00, Fri-Sun 10.00-20.00"
     },
     "link": {"Homepage":"http://www.cb1.com/cb2/"}
+},
+{
+    "city": "Montréal",
+    "country": "CA",
+    "name": "Baobab Cafe",
+    "address": "4800 Wellington",
+    "coordinates": ["45.457249","-73.567501"],
+    "description": {
+        "internet": "Free wifi, good speed, just ask for the password",
+        "power_outlets": "There are a few",
+        "seating": "Many tables, seats and couches",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, juices, soft drinks, cake, sandwiches, etc",
+        "hours": "All days 7.00-23.00"
+    },
+    "link": {"Homepage":"https://www.facebook.com/pages/Le-Baobab-caf%C3%A9/165900173449505"}
+},
+{
+    "city": "Montréal",
+    "country": "CA",
+    "name": "Station café W",
+    "address": "3852 Rue Wellington",
+    "coordinates": ["45.46543, -73.56677"],
+    "description": {
+        "internet": "Free wifi, good speed, just ask for the password",
+        "power_outlets": "There are a few",
+        "seating": "Many tables, and a large one",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, juices, soft drinks, sandwiches, etc",
+        "hours": "Mon-Fri 7.00-21.00, Sat-Sun 8.00-17.00"
+    },
+    "link": {"Homepage":"http://www.station-w.com/"}
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Pitomá kavárna",
+    "address": "Preslova 3, 130 00",
+    "coordinates": ["50.0727490, 14.4067160"],
+    "description": {
+        "internet": "Free wifi, password (1111111111)",
+        "power_outlets": "I didn't find one in my section",
+        "seating": "Normal tables in two sections",
+        "service": "Great",
+        "provision": "Coffee, and food",
+        "hours": "Mon-Fri 8.30-23.00, Sat-Sun 11.00-23.00"
+    },
+    "link": {"Homepage":"http://www.pitoma-kavarna.cz/"}
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Čajovna Daruma",
+    "address": "Trojanova 4, 128 00",
+    "coordinates": ["50.0740050, 14.4145020"],
+    "description": {
+        "internet": "Free wifi (you may have DNS problems) (password: 2013Daruma)",
+        "power_outlets": "There are some, but you need to find them",
+        "seating": "Many small sections",
+        "service": "Great",
+        "provision": "Tea",
+        "hours": "Mon-Fri 11.00-22.00, Sat-Sun 14.00-22.00"
+    }
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Le Petit Cafe",
+    "address": "Myslíkova 25",
+    "coordinates": ["50.0780420, 14.4181280"],
+    "description": {
+        "internet": "Free wifi (no password)",
+        "seating": "Small coffee shop",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks..."
+    }
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Cafe Parisienne",
+    "address": "Králodvorská 11",
+    "coordinates": ["50.0881530, 14.4268580"],
+    "description": {
+        "internet": "Free wifi (password: parisienne)",
+        "power_outlets": "I didn't find any",
+        "seating": "Small coffee shop",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks...",
+        "hours": "Mon-Fri 10.00-22.00, Sat 11.00-22.00"
+    }
 }
 ]
