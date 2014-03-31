@@ -550,5 +550,21 @@ var places = [
         "hours": "Mon-Thu 8.00-20.00, Fri-Sun 10.00-20.00"
     },
     "link": {"Homepage":"http://www.cb1.com/cb2/"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Bread and Bean",
+    "address": "37 Junction Road, N19 5QU",
+    "coordinates": ["51.56447","-0.13506"],
+    "description": {
+        "internet": "Free wifi, good speed, just ask for the password",
+        "power_outlets": "2 per table",
+        "seating": "Comfortable tables, seats and couches",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, juices, full menu",
+        "hours": "Daily 8.00-19.00"
+    },
+    "link": {"Homepage":"http://thebreadandbean.co.uk"}
 }
 ]
