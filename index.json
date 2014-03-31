@@ -607,9 +607,24 @@ var places = [
     "coordinates": ["50.0780420, 14.4181280"],
     "description": {
         "internet": "Free wifi (no password)",
-        "seating": "Small coffee shot",
+        "seating": "Small coffee shop",
         "service": "Great",
         "provision": "Coffee, tea, juice, snacks..."
+    }
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Cafe Parisienne",
+    "address": "Králodvorská 11",
+    "coordinates": ["50.0881530, 14.4268580"],
+    "description": {
+        "internet": "Free wifi (password: parisienne)",
+        "power_outlets": "I didn't find any",
+        "seating": "Small coffee shop",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks...",
+        "hours": "Mon-Fri 10.00-22.00, Sat 11.00-22.00"
     }
 }
 ]
