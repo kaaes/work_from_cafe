@@ -572,7 +572,7 @@ var places = [
     "city": "Prague",
     "country": "CZ",
     "name": "Pitomá kavárna",
-    "address": "Preslova 3, 130 00 Prague",
+    "address": "Preslova 3, 130 00",
     "coordinates": ["50.0727490, 14.4067160"],
     "description": {
         "internet": "Free wifi, password (1111111111)",
@@ -588,15 +588,28 @@ var places = [
     "city": "Prague",
     "country": "CZ",
     "name": "Čajovna Daruma",
-    "address": "Trojanova 4, 128 00 Prague",
+    "address": "Trojanova 4, 128 00",
     "coordinates": ["50.0740050, 14.4145020"],
     "description": {
-        "internet": "Free wifi (not super reliable), password (2013Daruma)",
+        "internet": "Free wifi (you may have DNS problems) (password: 2013Daruma)",
         "power_outlets": "There are some, but you need to find them",
         "seating": "Many small sections",
         "service": "Great",
         "provision": "Tea",
         "hours": "Mon-Fri 11.00-22.00, Sat-Sun 14.00-22.00"
+    }
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Le Petit Cafe",
+    "address": "Myslíkova 25",
+    "coordinates": ["50.0780420, 14.4181280"],
+    "description": {
+        "internet": "Free wifi (no password)",
+        "seating": "Small coffee shot",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks..."
     }
 }
 ]
