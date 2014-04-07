@@ -597,5 +597,21 @@ var places = [
         "hours": "All days 7.00-23.00"
     },
     "link": {"Homepage":"https://www.facebook.com/pages/Le-Baobab-caf%C3%A9/165900173449505"}
+},
+{
+    "city": "St. John's",
+    "country": "CA",
+    "name": "Hava Java",
+    "address": "258 Water St.",
+    "coordinates": ["47.563712","-52.707507"],
+    "description": {
+        "internet": "Free wifi - ask for the password",
+        "power_outlets": "Along the far wall",
+        "seating": "Benches and sets at tables",
+        "service": "Very friendly",
+        "provision": "Coffee, tea other drinks, snacks",
+        "hours": "All days 7.30-18.00"
+    },
+    "link": {"Facebook":"https://www.facebook.com/havajava"}
 }
 ]
