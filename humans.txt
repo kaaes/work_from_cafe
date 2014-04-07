@@ -75,6 +75,11 @@
   Twitter: @fortunajs
   Location: Krakow, PL
   
+  Name: Gregory Pike
+  Github: grevory
+  Twitter: @grevory
+  Location: Toronto, CA
+  
 
 -  Name: your_name
 -  Site: your_personal_site
