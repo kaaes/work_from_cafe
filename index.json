@@ -606,12 +606,12 @@ var places = [
     "coordinates": ["47.563712","-52.707507"],
     "description": {
         "internet": "Free wifi - ask for the password",
-        "power_outlets": "Along the far wall",
-        "seating": "Benches and sets at tables",
+        "power_outlets": "Plenty",
+        "seating": "Benches and seats at tables",
         "service": "Very friendly",
-        "provision": "Coffee, tea other drinks, snacks",
+        "provision": "Coffee, tea, other drinks, sandwiches, soups",
         "hours": "All days 7.30-18.00"
     },
-    "link": {"Facebook":"https://www.facebook.com/havajava"}
+    "link": {"Facebook":"https://www.facebook.com/havajava", "Twitter":"https://twitter.com/havajavanl"}
 }
 ]
