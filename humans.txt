@@ -16,6 +16,12 @@
   Twitter: @powczarek
   Location: Krakow, Poland
 
+  Name: Frédéric Harper
+  Site: http://outofcomfortzone.net
+  Github: fharper
+  Twitter: @fharper
+  Location: Montréal, Canada
+
 /* CONTRIBUTORS */
   Name: Daniel Mendalka
   Site: about.me/daniel.mendalka
