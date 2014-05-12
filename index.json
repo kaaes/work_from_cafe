@@ -629,5 +629,21 @@ var places = [
         "hours": "Mon-Fri 7.00-21.00, Sat-Sun 8.00-17.00"
     },
     "link": {"Homepage":"http://www.station-w.com/"}
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Pitomá kavárna",
+    "address": "Preslova 3, 130 00",
+    "coordinates": ["50.0727490, 14.4067160"],
+    "description": {
+        "internet": "Free wifi, password (1111111111)",
+        "power_outlets": "I didn't find one in my section",
+        "seating": "Normal tables in two sections",
+        "service": "Great",
+        "provision": "Coffee, and food",
+        "hours": "Mon-Fri 8.30-23.00, Sat-Sun 11.00-23.00"
+    },
+    "link": {"Homepage":"http://www.pitoma-kavarna.cz/"}
 }
 ]
