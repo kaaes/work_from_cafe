@@ -645,5 +645,20 @@ var places = [
         "hours": "Mon-Fri 8.30-23.00, Sat-Sun 11.00-23.00"
     },
     "link": {"Homepage":"http://www.pitoma-kavarna.cz/"}
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Čajovna Daruma",
+    "address": "Trojanova 4, 128 00",
+    "coordinates": ["50.0740050, 14.4145020"],
+    "description": {
+        "internet": "Free wifi (you may have DNS problems) (password: 2013Daruma)",
+        "power_outlets": "There are some, but you need to find them",
+        "seating": "Many small sections",
+        "service": "Great",
+        "provision": "Tea",
+        "hours": "Mon-Fri 11.00-22.00, Sat-Sun 14.00-22.00"
+    }
 }
 ]
