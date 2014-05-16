@@ -660,5 +660,18 @@ var places = [
         "provision": "Tea",
         "hours": "Mon-Fri 11.00-22.00, Sat-Sun 14.00-22.00"
     }
+},
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Le Petit Cafe",
+    "address": "Myslíkova 25",
+    "coordinates": ["50.0780420, 14.4181280"],
+    "description": {
+        "internet": "Free wifi (no password)",
+        "seating": "Small coffee shop",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks..."
+    }
 }
 ]
