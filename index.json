@@ -688,5 +688,20 @@ var places = [
         "provision": "Coffee, tea, juice, snacks...",
         "hours": "Mon-Fri 10.00-22.00, Sat 11.00-22.00"
     }
-}
+},
+{
+    "city": "Paris",
+    "country": "FR",
+    "name": "Les Pères Populaires",
+    "address": "46 rue de Buzenval",
+    "coordinates": ["48.8511740, 2.4017840"],
+    "description": {
+        "internet": "Free wifi (password: 1avertissementhadopi)",
+        "power_outlets": "You can find about 5-10",
+        "seating": "Many places, good for group",
+        "service": "ok",
+        "provision": "Coffee, tea, juice, food...",
+        "hours": "Mon-Fri 09.00-2.00, Sat-Sun 10.00-2.00"
+    }
+},
 ]
