@@ -704,4 +704,20 @@ var places = [
         "hours": "Mon-Fri 09.00-2.00, Sat-Sun 10.00-2.00"
     }
 },
+{
+    "city": "Prague",
+    "country": "CZ",
+    "name": "Nostalgická myš",
+    "address": "Ve Smečkách 592/22",
+    "coordinates": ["50.0789430, 14.4271520"],
+    "description": {
+        "internet": "Free wifi",
+        "power_outlets": "You can find them easily",
+        "seating": "Many places",
+        "service": "Great",
+        "provision": "Coffee, tea, juice, snacks...",
+        "hours": "Mon-Thu 08.00-20.00, Fri 08.00-17.00, Sat-Sun 08.00-20.00"
+    },
+    "link": {"Homepage":"http://www.nostalgickamys.cz"}
+}
 ]
