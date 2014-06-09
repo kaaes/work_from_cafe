@@ -719,5 +719,21 @@ var places = [
         "hours": "Mon-Thu 08.00-20.00, Fri 08.00-17.00, Sat-Sun 08.00-20.00"
     },
     "link": {"Homepage":"http://www.nostalgickamys.cz"}
+},
+{
+    "city": "Paris",
+    "country": "FR",
+    "name": "L'Arobase",
+    "address": "52 rue du Chevaleret",
+    "coordinates": ["48.8286740, 2.3763820"],
+    "description": {
+        "internet": "Free wifi (password: chocolat)",
+        "power_outlets": "Did not check - please update accordingly",
+        "seating": "Enough seat, does not seems to crowded",
+        "service": "Good",
+        "provision": "Coffee, tea, juice, snacks...",
+        "hours": "Mon-Fri 08.30-21.00, Sat 12.00-19.00"
+    },
+    "link": {"Homepage":"http://www.arobasecafe.com/"}
 }
 ]
