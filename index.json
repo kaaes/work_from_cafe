@@ -735,5 +735,21 @@ var places = [
         "hours": "Mon-Fri 08.30-21.00, Sat 12.00-19.00"
     },
     "link": {"Homepage":"http://www.arobasecafe.com/"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Blighty Coffee",
+    "address": "35-37 Blackstock Road",
+    "coordinates": ["51.5639220, -0.1029860"],
+    "description": {
+        "internet": "Free wifi (blighty-coffee: chrisBlighty / blighty-workspace: workspace)",
+        "power_outlets": "Not that many, but you can find some",
+        "seating": "Enough seat on more than one level, and a garden",
+        "service": "Good",
+        "provision": "Coffee, tea, juice, pastries...",
+        "hours": "Mon-Fri 07.30-19.00, Sat 08.30-17.00"
+    },
+    "link": {"Homepage":"http://www.blightycoffee.co.uk/"}
 }
 ]
