@@ -751,5 +751,21 @@ var places = [
         "hours": "Mon-Fri 07.30-19.00, Sat 08.30-17.00"
     },
     "link": {"Homepage":"http://www.blightycoffee.co.uk/"}
+},
+{
+    "city": "Saint-Petersburg",
+    "country": "RU",
+    "name": "Art. Lebedev Studio's Cafe",
+    "address": "ul. Zhukovskogo 4",
+    "coordinates": ["59.936612, 30.350246"],
+    "description": {
+        "internet": "Open wifi, stable connection",
+        "power_outlets": "At some tables, you can ask to be seated near one",
+        "seating": "Comfortable, wooden chairs with pillows or sofas near windows",
+        "service": "Good",
+        "provision": "One of the best coffees in town, store-made pastries, good food, somewhat expensive",
+        "hours": "Mon-Sun 09.00-23.00"
+    },
+    "link": {"Homepage":"http://www.blightycoffee.co.uk/"}
 }
 ]
