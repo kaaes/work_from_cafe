@@ -86,6 +86,10 @@
   Twitter: @grevory
   Location: Toronto, CA
   
+  Name: Andrew Korzhuev
+  Github: andrusha
+  Twitter: @proglog
+  Location: Saint-Petersburg, Ru
 
 -  Name: your_name
 -  Site: your_personal_site
