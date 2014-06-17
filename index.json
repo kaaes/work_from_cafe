@@ -159,7 +159,7 @@ var places = [
     "address": "Krupnicza 12",
     "coordinates": ["50.063439", "19.930681"],
     "description": {
-        "internet": "open (non-encrypted) WiFi, decent connection speed",
+        "internet": "open (non-encrypted) WiFi, unstable, works ok near the entrance",
         "power_outlets": "accessible when sitting by a wall, they're located under the seats",
         "seating": "chairs and benches, could be more comfortable (some pillows available though). nice tables",
         "service": "great people, won't disturb you.",
