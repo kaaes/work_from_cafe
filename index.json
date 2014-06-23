@@ -767,5 +767,21 @@ var places = [
         "hours": "Mon-Sun 09.00-23.00"
     },
     "link": {"Homepage":"http://zhukovskogo.artlebedev.com/"}
+},
+{
+    "city": "Brussels",
+    "country": "BE",
+    "name": "Karsmakers",
+    "address": "20 Rue de Trèves - 1050 Ixelles",
+    "coordinates": ["50.838303, 4.372662"],
+    "description": {
+        "internet": "Wifi, connection sometimes slow but ok. No working from there between 12:00 and 14:30",
+        "power_outlets": "Near some tables, may be already used by someone",
+        "seating": "Comfortable, various possibilities: sofas, normal tables with chairs, high tables with chairs. Natural light. Nice spaces, very nice terrace.",
+        "service": "Nice, self-service",
+        "provision": "Great coffee, store-made pastries, very nice cakes, affordable",
+        "hours": "Mon-Fri 07.00-18.00"
+    },
+    "link": {"Homepage":"httphttp://www.karsmakers.be/"}
 }
 ]
