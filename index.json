@@ -783,5 +783,21 @@ var places = [
         "hours": "Mon-Fri 07.00-18.00"
     },
     "link": {"Homepage":"httphttp://www.karsmakers.be/"}
+},
+{
+    "city": "Paris",
+    "country": "FR",
+    "name": "L'Autre Café",
+    "address": "62 rue Jean-Pierre Timbaud, 75011",
+    "coordinates": ["48.8667010, 2.3740770"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "Did not look for them, but don't think they have many",
+        "seating": "Many seats, but keep in mind it's a café, but also a restaurant",
+        "service": "Good",
+        "provision": "Coffee, drinks, and food",
+        "hours": "Mon-Sun 08.00-2.00"
+    },
+    "link": {"Homepage":"http://www.lautrecafe.com/"}
 }
 ]
