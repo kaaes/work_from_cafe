@@ -799,5 +799,21 @@ var places = [
         "hours": "Mon-Sun 08.00-2.00"
     },
     "link": {"Homepage":"http://www.lautrecafe.com/"}
+},
+{
+    "city": "Paris",
+    "country": "FR",
+    "name": "Onze Bar",
+    "address": "83 rue Jean Pierre Timbaud",
+    "coordinates": ["48.8682340, 2.3780170"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "Did not look for them, but don't think they have many",
+        "seating": "Not too big, but they also have a small terrace.",
+        "service": "Good",
+        "provision": "Coffee, beer... (it's more a bar than a coffee shop)",
+        "hours": "Mon-Sun 09.00-2.00"
+    },
+    "link": {"Homepage":"http://www.onzebar.com/"}
 }
 ]
