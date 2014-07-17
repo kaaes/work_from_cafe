@@ -815,5 +815,21 @@ var places = [
         "hours": "Mon-Sun 09.00-2.00"
     },
     "link": {"Homepage":"http://www.onzebar.com/"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Timberyard",
+    "address": "7 Upper St Martin's Lane",
+    "coordinates": ["51.5126660, -0.1272000"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "Many outlets, it's a computer friendly coffee shop",
+        "seating": "Many, the coffee shop is on two floors",
+        "service": "Friendly (order and take a seat)",
+        "provision": "Coffee, tea, sandwiches, muffins...",
+        "hours": "Mon-Fri 08.00-20.00, Sat 10.00-20.00, Sun 10.00-18.00"
+    },
+    "link": {"Homepage":"http://www.timberyardlondon.com/"}
 }
 ]
