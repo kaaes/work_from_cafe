@@ -831,5 +831,37 @@ var places = [
         "hours": "Mon-Fri 08.00-20.00, Sat 10.00-20.00, Sun 10.00-18.00"
     },
     "link": {"Homepage":"http://www.timberyardlondon.com/"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Cafe Vintage",
+    "address": "88 Mountgrove Rd, London N5 2LT, United Kingdom",
+    "coordinates": ["51.5610906, -0.0972411"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "Outlets in the corner seats and on the above level",
+        "seating": "Various seats, upstairs are better for working",
+        "service": "Absolutely lovely people and they know their vintage",
+        "provision": "Coffee, tea, sandwiches, muffins, salads, eggs, panini, jacket potatoes, cakes…",
+        "hours": "Mon-Fri 08.00-17.00, Sat 10.00-17.00, Sun 10.00-17.00"
+    },
+    "link": {"Homepage":"https://twitter.com/cafevintage"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Fink's salt and sweet",
+    "address": "70 Mountgrove Rd, London N5 2LT, United Kingdom",
+    "coordinates": ["51.5611881, -0.0963518"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "Outlets in the upper seats and on window panels",
+        "seating": "Various seats, upstairs are better for working",
+        "service": "Friendly, happy to help with wireless password",
+        "provision": "Coffees and teas, deli food (cheese platters, artisan food)",
+        "hours": "not defined yet"
+    },
+    "link": {"Homepage":"http://finks.co.uk/"}
 }
 ]
