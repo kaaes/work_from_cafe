@@ -863,5 +863,20 @@ var places = [
         "hours": "not defined yet"
     },
     "link": {"Homepage":"http://finks.co.uk/"}
+},
+{
+    "city": "Paris",
+    "country": "FR",
+    "name": "Au Chat Noir",
+    "address": "76 rue Jean-Pierre Timbaud",
+    "coordinates": ["48.8672750, 2.3759130"],
+    "description": {
+        "internet": "Free Wifi (password: 74chatnoir)",    
+        "power_outlets": "I only found one",
+        "seating": "Good enough",
+        "service": "Good",
+        "provision": "Coffee, tea, and small snacks",
+        "hours": "N/A"
+    }
 }
 ]
