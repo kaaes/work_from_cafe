@@ -782,7 +782,7 @@ var places = [
         "provision": "Great coffee, store-made pastries, very nice cakes, affordable",
         "hours": "Mon-Fri 07.00-18.00"
     },
-    "link": {"Homepage":"httphttp://www.karsmakers.be/"}
+    "link": {"Homepage":"http://www.karsmakers.be/"}
 },
 {
     "city": "Paris",
