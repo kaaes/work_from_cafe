@@ -878,5 +878,21 @@ var places = [
         "provision": "Coffee, tea, and small snacks",
         "hours": "N/A"
     }
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "The CoffeeWorks Project ",
+    "address": "96-98 Islington High Street",
+    "coordinates": ["51.5033630, -0.1276250"],
+    "description": {
+        "internet": "Free Wifi (the password is on the wall on the second floor)",    
+        "power_outlets": "Outlets are available, but not everywhere",
+        "seating": "Various seats, upstairs are better for working, and there is a garden at the back",
+        "service": "Friendly",
+        "provision": "Coffees and teas with light snacks (muffins, breakfast)",
+        "hours": "Mon-Fri 07.30-18.00, Sat 09.00-18.00, Sun 10.00-16.00"
+    },
+    "link": {"Homepage":"http://coffeeworksproject.com/"}
 }
 ]
