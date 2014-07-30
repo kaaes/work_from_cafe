@@ -894,5 +894,21 @@ var places = [
         "hours": "Mon-Fri 07.30-18.00, Sat 09.00-18.00, Sun 10.00-16.00"
     },
     "link": {"Homepage":"http://coffeeworksproject.com/"}
+},
+{
+    "city": "San Francisco",
+    "country": "US",
+    "name": "Joy's Place",
+    "address": "611 Post St",
+    "coordinates": ["37.7877290, -122.4120040"],
+    "description": {
+        "internet": "Free Wifi (the password is john611post)",    
+        "power_outlets": "Not many outlets, but there are some, look on the wall with the bench",
+        "seating": "Can seat about 30 people",
+        "service": "Friendly, but the music is a bit loud",
+        "provision": "Coffees, teas, panini, and desserts)",
+        "hours": "Mon-Sun 09.00-24.00"
+    },
+    "link": {"Homepage":"http://www.joysplacecafe.com/"}
 }
 ]
