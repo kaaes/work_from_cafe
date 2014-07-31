@@ -910,5 +910,21 @@ var places = [
         "hours": "Mon-Sun 09.00-24.00"
     },
     "link": {"Homepage":"http://www.joysplacecafe.com/"}
+},
+{
+    "city": "San Francisco",
+    "country": "US",
+    "name": "Cafe Venue",
+    "address": "67 5th St",
+    "coordinates": ["37.7832470,-122.4067610"],
+    "description": {
+        "internet": "Free Wifi (the password is cafevenue1995)",    
+        "power_outlets": "I did not find any",
+        "seating": "Many places but seems quite popular",
+        "service": "Good",
+        "provision": "Coffees, teas, salads, sandwiches...)",
+        "hours": "Mon-Fri 07.00-15.30, Sat 8.00-14.30"
+    },
+    "link": {"Homepage":"http://www.cafevenue.com/"}
 }
 ]
