@@ -926,5 +926,21 @@ var places = [
         "hours": "Mon-Fri 07.00-15.30, Sat 8.00-14.30"
     },
     "link": {"Homepage":"http://www.cafevenue.com/"}
+},
+{
+    "city": "San Francisco",
+    "country": "US",
+    "name": "Saint Frank Coffee",
+    "address": "2340 Polk St",
+    "coordinates": ["37.7984730, -122.4220260"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "I did not find any",
+        "seating": "Mostly stools",
+        "service": "Good",
+        "provision": "Coffees, teas, muffins, cookies...)",
+        "hours": "Mon-Sun 07.00-19.00"
+    },
+    "link": {"Homepage":"http://saintfrankcoffee.com/"}
 }
 ]
