@@ -942,5 +942,21 @@ var places = [
         "hours": "Mon-Sun 07.00-19.00"
     },
     "link": {"Homepage":"http://saintfrankcoffee.com/"}
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Full of Beans Play Cafe",
+    "address": "69 Highbury Park",
+    "coordinates": ["51.5560330, -0.0982900"],
+    "description": {
+        "internet": "Free Wifi",    
+        "power_outlets": "There are some, but not at all tables",
+        "seating": "Enough seating for about 20 people",
+        "service": "Great, and there is a playing area if you have kids",
+        "provision": "Coffees, teas, muffins, cookies...)",
+        "hours": "Mon-Fri 08.30-18.00, Sat-Sun 9.30-18.00"
+    },
+    "link": {"Homepage":"http://www.fullofbeanscafe.co.uk/"}
 }
 ]
