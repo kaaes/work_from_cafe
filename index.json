@@ -958,5 +958,53 @@ var places = [
         "hours": "Mon-Fri 08.30-18.00, Sat-Sun 9.30-18.00"
     },
     "link": {"Homepage":"http://www.fullofbeanscafe.co.uk/"}
+},
+{
+    "city": "Lviv",
+    "country": "Ukraine",
+    "name": "Kredens",
+    "address": "37 Prospekt Svobody",
+    "coordinates": ["49.84308", "24.026064"],
+    "description": {
+        "internet": "Free wifi, nice speed, password protected",
+        "power_outlets": "A lot of them",
+        "seating": "Both tables and comfy chairs. Has a couple of long tables.",
+        "service": "Order at the bar, very friendly",
+        "provision": "Coffee, tea, hot chocolate and many others coffee-based drinks",
+        "hours": "Mon-Sun 08.00-23.00"
+    },
+    "link": {"Homepage":"http://www.kredens.com.ua/en/", "Facebook":"https://www.facebook.com/kredenscoffee"}
+},
+{
+    "city": "Lviv",
+    "country": "Ukraine",
+    "name": "CoMMuna",
+    "address": "1 Halytska str.",
+    "coordinates": ["49.841015", "24.03112"],
+    "description": {
+        "internet": "Free wifi (you pay for time in the cafe)",
+        "power_outlets": "Most tables have it",
+        "seating": "Both tables and comfy chairs. Has a couple of long tables.",
+        "service": "Order at the bar, very friendly",
+        "provision": "Coffee, tea (they are free, but assortment is limited)",
+        "hours": "Always open"
+    },
+    "link": {"Homepage":"http://communa.net.ua/en/", "Facebook":"https://www.facebook.com/pages/CoMMuna/440386219353270"}
+},
+{
+    "city": "Mountain View",
+    "country": "USA",
+    "name": "Red Rock",
+    "address": "201 Castro St, Mountain View, CA 94041",
+    "coordinates": ["37.393611", "-122.078774"],
+    "description": {
+        "internet": "Free stable WIFI and Google public WIFI also available",
+        "power_outlets": "Lots",
+        "seating": "Plenty, and there is a second floor that is quieter, get there early it fills up fairly quickly",
+        "service": "Very friendly",
+        "provision": "Coffee, tea, muffins, snacks",
+        "hours": "Mon-Thurs 07.00-22.00, Fri 07.00-23.00, Sat 08.00-23.00, Sun 08.00-20.00"
+    },
+    "link": {"homepage":"http://www.redrockcoffee.org/"}
 }
 ]
