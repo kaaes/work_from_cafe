@@ -8,7 +8,9 @@
 			hours : 'Opening time'
 		},
 		mapLinkTemplate = '<a href="http://maps.google.com/maps?q={{coords}}">See on map</a>',
-		itemTemplate = '<h3>{{name}}, {{address}} {{{mapLink}}}</h3><ul>{{#description}}{{{.}}}{{/description}}</ul>',
+		linkTemplate = '<a href="{{link}}">{{link_type}}</a>',
+		itemTemplate = '<h3>{{name}}, {{address}} {{{mapLink}}} {{{links}}}</h3>\
+			<ul>{{#description}}{{{.}}}{{/description}}</ul>',
 		description = '<li><strong>{{key}}:</strong> {{value}}</li>',
 		cityHeader = '<h2>{{city}}</h2>';
 
@@ -42,6 +44,7 @@
 			item = items[i];
 			desc = item.description;
 			keys = Object.keys(desc);
+			links = '';
 			coordinates = '';
 			
 			if(cityList.indexOf(item.city) === -1) {
@@ -60,11 +63,23 @@
 			  }
 			}
 
+			if(item.link) {
+				linkTypes = Object.keys(item.link);
+				linkData = [];
+
+				linkTypes.forEach(function(el){
+					linkData.push(Mustache.to_html(linkTemplate, {link_type: el, link: item.link[el]}));
+				});
+
+				links = linkData.join(' ');
+			}
+
 			itemsHtml.push({
 				html : Mustache.to_html(itemTemplate, {
 					name : item.name,
 					address : item.address,
 					mapLink : coordinates ? Mustache.to_html(mapLinkTemplate, {coords : coordinates}) : '',
+					links : links,
 					description: list
 				}),
 				city : item.city,

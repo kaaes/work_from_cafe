@@ -1005,6 +1005,6 @@ var places = [
         "provision": "Coffee, tea, muffins, snacks",
         "hours": "Mon-Thurs 07.00-22.00, Fri 07.00-23.00, Sat 08.00-23.00, Sun 08.00-20.00"
     },
-    "link": {"homepage":"http://www.redrockcoffee.org/"}
+    "link": {"Homepage":"http://www.redrockcoffee.org/"}
 }
 ]
