@@ -1006,5 +1006,21 @@ var places = [
         "hours": "Mon-Thurs 07.00-22.00, Fri 07.00-23.00, Sat 08.00-23.00, Sun 08.00-20.00"
     },
     "link": {"Homepage":"http://www.redrockcoffee.org/"}
+},
+{
+    "city": "Montréal",
+    "country": "Canada",
+    "name": "Café Humble Lion",
+    "address": "904 Sherbrooke Ouest",
+    "coordinates": ["45.5032610, -73.5749020"],
+    "description": {
+        "internet": "Free Wifi",
+        "power_outlets": "4-5 visible one",
+        "seating": "Can seat about 30 people, but near an university so it can fill up quickly",
+        "service": "Friendly",
+        "provision": "Coffee, tea, muffins...",
+        "hours": "Mon-Fri 07.00-19.00, Sat-Sun 08.00-23.00, Sun 09.00-17.00"
+    },
+    "link": {"Homepage":"http://www.humblelion.com/"}
 }
 ]
