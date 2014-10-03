@@ -1019,7 +1019,7 @@ var places = [
         "seating": "Can seat about 30 people, but near an university so it can fill up quickly",
         "service": "Friendly",
         "provision": "Coffee, tea, muffins...",
-        "hours": "Mon-Fri 07.00-19.00, Sat-Sun 08.00-23.00, Sun 09.00-17.00"
+        "hours": "Mon-Fri 07.30-19.00, Sat-Sun 11.00-18.00"
     },
     "link": {"Homepage":"http://www.humblelion.com/"}
 },
