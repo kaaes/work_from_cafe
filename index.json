@@ -1022,5 +1022,20 @@ var places = [
         "hours": "Mon-Fri 07.00-19.00, Sat-Sun 08.00-23.00, Sun 09.00-17.00"
     },
     "link": {"Homepage":"http://www.humblelion.com/"}
+},
+{
+    "city": "Alma",
+    "country": "Canada",
+    "name": "L’Exode Café",
+    "address": "960 avenue Du pont Sud",
+    "coordinates": ["48.5364170, -71.6475880"],
+    "description": {
+        "internet": "Free Wifi",
+        "power_outlets": "Once every couple seats",
+        "seating": "Can seat about 20 people, but it's the only coffee like this in the city",
+        "service": "Very Friendly",
+        "provision": "Coffee, tea, muffins, sandwhiches, hot lunch/dinner, beer...",
+        "hours": "Mon-Web 07.00-16.00, Thu-Fri 07.00-10.00, Sat-Sun 08.00-16.00"
+    }
 }
 ]
