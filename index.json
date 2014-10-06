@@ -1037,5 +1037,21 @@ var places = [
         "provision": "Coffee, tea, muffins, sandwhiches, hot lunch/dinner, beer...",
         "hours": "Mon-Web 07.00-16.00, Thu-Fri 07.00-10.00, Sat-Sun 08.00-16.00"
     }
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Kipferl",
+    "address": "20 Camden Passage",
+    "coordinates": ["51.5350140, -0.1036350"],
+    "description": {
+        "internet": "Free Wifi",
+        "power_outlets": "Not everywhere, but good enough to work there",
+        "seating": "Enough seats for about 30 people",
+        "service": "Very Friendly",
+        "provision": "Coffee, tea, muffins, breakfast, lunch, desserts...",
+        "hours": "Tue-Sat 09.00-22.00, Sun 10.00-22.00"
+    },
+    "link": {"Homepage":"http://www.kipferl.co.uk/"}
 }
 ]
