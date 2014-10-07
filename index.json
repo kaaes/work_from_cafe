@@ -1053,5 +1053,21 @@ var places = [
         "hours": "Tue-Sat 09.00-22.00, Sun 10.00-22.00"
     },
     "link": {"Homepage":"http://www.kipferl.co.uk/"}
+},
+{
+    "city": "San Francisco",
+    "country": "US",
+    "name": "Another Cafe ",
+    "address": "1191 Pine St",
+    "coordinates": ["37.7901040, -122.4153980"],
+    "description": {
+        "internet": "Free Wifi",
+        "power_outlets": "At most table",
+        "seating": "Enough seats for about 30 people (on two levels)",
+        "service": "Friendly",
+        "provision": "Coffee, tea, muffins, panini, bagel",
+        "hours": "Mon-Fri 06.00-22.00, Sat-Sun 7.00-21.00"
+    },
+    "link": {"Homepage":"http://www.anothercafesf.com/"}
 }
 ]
