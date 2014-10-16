@@ -1069,5 +1069,21 @@ var places = [
         "hours": "Mon-Fri 06.00-22.00, Sat-Sun 7.00-21.00"
     },
     "link": {"Homepage":"http://www.anothercafesf.com/"}
+},
+{
+    "city": "Montréal",
+    "country": "CA",
+    "name": "Notman House ",
+    "address": "51 Sherbrooke West",
+    "coordinates": ["45.5118520, -73.5698800"],
+    "description": {
+        "internet": "Free Wifi",
+        "power_outlets": "Every two or three tables",
+        "seating": "Enough seats for about 20 people, but you can basically hang anywhere in the house",
+        "service": "It's not a coffee shop, but the web house of Montreal open to anyone who is looking for a place to work.",
+        "provision": "Water only, coffee will be available soon",
+        "hours": "Mon-Fri 09.00-18.00"
+    },
+    "link": {"Homepage":"http://notman.org/"}
 }
 ]
