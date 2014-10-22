@@ -1085,5 +1085,20 @@ var places = [
         "hours": "Mon-Fri 09.00-18.00"
     },
     "link": {"Homepage":"http://notman.org/"}
+},
+{
+    "city": "Raleigh",
+    "country": "US",
+    "name": "Crema",
+    "address": "121 Fayetteville St",
+    "coordinates": ["39.1876100, -83.9300940"],
+    "description": {
+        "internet": "Free Wifi (no password)",
+        "power_outlets": "I've seen one near the sofa",
+        "seating": "Enough seats for about 30 people on table, sofa, and counter",
+        "service": "OK",
+        "provision": "Coffee, teas, ice cream, salads, soups, sandwiches...",
+        "hours": "Mon-Thu 07.00-18.00, Fri 07.00-22.00, Sat 11.00-22.00"
+    }
 }
 ]
