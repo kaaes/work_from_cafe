@@ -1100,5 +1100,21 @@ var places = [
         "provision": "Coffee, teas, ice cream, salads, soups, sandwiches...",
         "hours": "Mon-Thu 07.00-18.00, Fri 07.00-22.00, Sat 11.00-22.00"
     }
+},
+{
+    "city": "Montréal",
+    "country": "CA",
+    "name": "Café Falco",
+    "address": "5605 avenue De Gaspé",
+    "coordinates": ["45.5283050, -73.5980460"],
+    "description": {
+        "internet": "Free Wifi (password: perigrinus)",
+        "power_outlets": "You can find some, but not at every seats",
+        "seating": "Two big tables, sofas, and some bar style seats",
+        "service": "Good",
+        "provision": "Coffee, tea, snacks, and hot meals for lunch",
+        "hours": "Mon-Thu 08.00-17.00, Fri 8.00-16.00"
+    },
+    "link": {"Homepage":"http://www.cafefalco.ca/"}
 }
 ]
