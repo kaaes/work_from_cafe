@@ -1116,5 +1116,47 @@ var places = [
         "hours": "Mon-Thu 08.00-17.00, Fri 8.00-16.00"
     },
     "link": {"Homepage":"http://www.cafefalco.ca/"}
+},
+{
+    "city": "Montpellier",
+    "country": "FR",
+    "name": "Café La Panacée",
+    "address": "14 Rue de l'École de Pharmacie",
+    "coordinates": [
+        "43.612777",
+        "3.878086"
+    ],
+    "description": {
+        "internet": "Free WiFi",
+        "power_outlets": "Some available",
+        "seating": "A lot of tables with chairs and also room on the counter",
+        "service": "Very nice",
+        "provision": "Coffee, tea, beer, wine, cookies, muffins, tapas, etc",
+        "hours": "Wed-Sat 10.00-01.00, Sun 10.00-18.00"
+    },
+    "link": {
+        "Homepage": "http://lapanacee.org/le-cafe"
+    }
+},
+{
+    "city": "Auckland",
+    "country": "NZ",
+    "name": "Auckland Art Gallery Cafe",
+    "address": "Corner Kitchener and Wellesley Streets, Auckland 1010",
+    "coordinates": [
+        "-36.851226",
+        "174.765787"
+    ],
+    "description": {
+        "internet": "No",
+        "power_outlets": "No",
+        "seating": "Tables on the terrace next to Albert Park",
+        "service": "Nice",
+        "provision": "Coffee, tea, beer, wine, juices, soda, pastries, sandwiches, snacks",
+        "hours": "Mon-Fri 07.00-17.00, Sat-Sun 08.00-16.00"
+    },
+    "link": {
+        "Homepage": "http://www.aucklandartgallery.com/visit/café"
+    }
 }
 ]
