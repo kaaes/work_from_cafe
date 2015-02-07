@@ -1,20 +1,5 @@
 var places = [
 {
-    "city": "London",
-    "country": "UK",
-    "name": "Bean & Hop (previously Earlsfield Deli),
-    "address": "424 Garrat Lane, London, SW184HN",
-    "coordinates": ["51.439738","-0.187051"],
-    "description": {
-        "internet": "Great wifi - ask for password",
-        "power_outlets": "Ample",
-        "seating": "Cosy benches and vintage furniture. In the heart of Earlsfield.",
-        "service": "Very friendly and accomodating",
-        "provision": "Great breakfast - eggs benedict, briliant coffee and craft beer to take you into the evening"
-    },
-    "link": {"Facebook":""}
-},
-{
     "city": "Białystok",
     "country": "PL",
     "name": "Akcent Kawiarnia i Księgarnia",
@@ -1173,5 +1158,20 @@ var places = [
     "link": {
         "Homepage": "http://www.aucklandartgallery.com/visit/café"
     }
+},
+{
+    "city": "London",
+    "country": "UK",
+    "name": "Bean & Hop (previously Earlsfield Deli),
+    "address": "424 Garrat Lane, London, SW184HN",
+    "coordinates": ["51.439738","-0.187051"],
+    "description": {
+        "internet": "Great wifi - ask for password",
+        "power_outlets": "Ample",
+        "seating": "Cosy benches and vintage furniture. In the heart of Earlsfield.",
+        "service": "Very friendly and accomodating",
+        "provision": "Great breakfast - eggs benedict, briliant coffee and craft beer to take you into the evening"
+    },
+    "link": {"Facebook":""}
 }
 ]
