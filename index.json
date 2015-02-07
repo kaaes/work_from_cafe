@@ -1162,7 +1162,7 @@ var places = [
 {
     "city": "London",
     "country": "UK",
-    "name": "Bean & Hop (previously Earlsfield Deli),
+    "name": "Bean & Hop (previously Earlsfield Deli)",
     "address": "424 Garrat Lane, London, SW184HN",
     "coordinates": ["51.439738","-0.187051"],
     "description": {
