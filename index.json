@@ -1171,7 +1171,6 @@ var places = [
         "seating": "Cosy benches and vintage furniture. In the heart of Earlsfield.",
         "service": "Very friendly and accomodating",
         "provision": "Great breakfast - eggs benedict, briliant coffee and craft beer to take you into the evening"
-    },
-    "link": {"Facebook":""}
+    }
 }
 ]
