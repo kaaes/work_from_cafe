@@ -1174,10 +1174,10 @@ var places = [
     }
 },
 {
-    "city": "Poznan",
+    "city": "Poznań",
     "country": "PL",
     "name": "Taczaka 20",
-    "address": "ul. Stanisława Taczaka 20, Poznan, Poland",
+    "address": "ul. Stanisława Taczaka 20, Poznań, Poland",
     "coordinates": [
         "52.405510",
         "16.923168"
@@ -1195,10 +1195,10 @@ var places = [
     }
 },
 {
-    "city": "Poznan",
+    "city": "Poznań",
     "country": "PL",
     "name": "Minister Cafe",
-    "address": "ul. Ratajczaka 34, 61-815 Poznan, Poland",
+    "address": "ul. Ratajczaka 34, 61-815 Poznań, Poland",
     "coordinates": [
         "52.406039",
         "16.925254"
@@ -1216,10 +1216,10 @@ var places = [
     }
 },
 {
-    "city": "Poznan",
+    "city": "Poznań",
     "country": "PL",
     "name": "Stragan Kawiarnia",
-    "address": "Franciszka Ratajczaka 31, 61-816 Poznan, Poland",
+    "address": "Franciszka Ratajczaka 31, 61-816 Poznań, Poland",
     "coordinates": [
         "52.407132",
         "16.924937"
@@ -1237,7 +1237,7 @@ var places = [
     }
 },
 {
-    "city": "Poznan",
+    "city": "Poznań",
     "country": "PL",
     "name": "Cyryl - Lunch Coffee Wine",
     "address": "ul. Libelta 1, 60-995 Stare Miasto, Poznań, Poland",
