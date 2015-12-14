@@ -1172,5 +1172,89 @@ var places = [
         "service": "Very friendly and accomodating",
         "provision": "Great breakfast - eggs benedict, briliant coffee and craft beer to take you into the evening"
     }
+},
+{
+    "city": "Poznan",
+    "country": "PL",
+    "name": "Taczaka 20",
+    "address": "ul. Stanisława Taczaka 20, Poznan, Poland",
+    "coordinates": [
+        "52.405510",
+        "16.923168"
+    ],
+    "description": {
+        "internet": "Epic speeds",
+        "power_outlets": "Some available",
+        "seating": "Inside and outside when the weather is good",
+        "service": "Nice",
+        "provision": "Coffee, tea, beer, wine, juices, soda, fresh baked chackes, sandwiches, snacks",
+        "hours": "Mon-Fri: 08:00 - 22:00, Sat: 10:00 - 22:00, Sun: 10:00 - 20:00"
+    },
+    "link": {
+        "Facebook": "https://www.facebook.com/TACZAKA20"
+    }
+},
+{
+    "city": "Poznan",
+    "country": "PL",
+    "name": "Minister Cafe",
+    "address": "ul. Ratajczaka 34, 61-815 Poznan, Poland",
+    "coordinates": [
+        "52.406039",
+        "16.925254"
+    ],
+    "description": {
+        "internet": "It just works",
+        "power_outlets": "Every seet has one",
+        "seating": "Inside and outside in the alley",
+        "service": "Nice",
+        "provision": "Coffee, tea, beer, juices, soda, fresh baked cakes, sandwiches, snacks",
+        "hours": "Mon-Thurs: 10:00 - 22:00, Fri: 10:00 - 00:00, Sat: 11:00 - 00:00, Sun: 11:00 - 22:00"
+    },
+    "link": {
+        "Facebook": "https://www.facebook.com/MinisterCafe"
+    }
+},
+{
+    "city": "Poznan",
+    "country": "PL",
+    "name": "Stragan Kawiarnia",
+    "address": "Franciszka Ratajczaka 31, 61-816 Poznan, Poland",
+    "coordinates": [
+        "52.407132",
+        "16.924937"
+    ],
+    "description": {
+        "internet": "Very nice",
+        "power_outlets": "Under evry seat, hard to reach but they are there",
+        "seating": "Inside",
+        "service": "Nice",
+        "provision": "Coffee, tea, soda, fresh baked cakes, epic burgers, amazing bagels",
+        "hours": "Mon-Fri: 08:00 - 22:00, Sat: 11:00 - 22:00, Sun: 11:00 - 18:00"
+    },
+    "link": {
+        "Facebook": "https://www.facebook.com/StraganKawiarnia"
+    }
+},
+{
+    "city": "Poznan",
+    "country": "PL",
+    "name": "Cyryl - Lunch Coffee Wine",
+    "address": "ul. Libelta 1, 60-995 Stare Miasto, Poznań, Poland",
+    "coordinates": [
+        "52.410058",
+        "16.923548"
+    ],
+    "description": {
+        "internet": "It works",
+        "power_outlets": "There is some",
+        "seating": "Inside",
+        "service": "Always smiling",
+        "provision": "Coffee, tea, soda, fresh baked cakes, good burgers",
+        "hours": "Mon-Thurs: 09:00 - 20:00, Fri: 09:00 - 22:00, Sat: 12:00 - 22:00"
+    },
+    "link": {
+        "Facebook": "https://www.facebook.com/CyrylBar"
+    }
 }
 ]
