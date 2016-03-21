@@ -261,6 +261,22 @@ var places = [
 {
     "city": "Kraków",
     "country": "PL",
+    "name": "Columbus Coffee",
+    "address": "Starowiślna 27",
+    "coordinates": ["50.056680", "19.944859"],
+    "description": {
+        "internet": "very good, fast and stable wifi",
+        "power_outlets": "Plenty, nearly in every seat there are some around",
+        "seating": "sofas and wooden chairs",
+        "service": "very nice, order at the bar",
+        "provision": "ok coffee, shakes, salads and sandwiches",
+        "hours": "Mon-Fri 7-21, Sat 8-21, Sun 9-20"
+    },
+    "link": {"Homepage":"http://www.columbuscoffee.pl", "Facebook":"https://www.facebook.com/ColumbusCoffee"}
+},
+{
+    "city": "Kraków",
+    "country": "PL",
     "name": "Korek Eco Resto Bar",
     "address": "Czysta 8",
     "coordinates": ["50.060445", "19.937936"],
